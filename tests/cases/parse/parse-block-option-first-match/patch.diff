@@ -1,0 +1,6 @@
+--- f.txt
++++ f.txt
+option first-match
+@@
+-x
++y

@@ -1,0 +1,10 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "source": "@types/index.d.ts"
+    }
+  ],
+  "exactTree": true
+}

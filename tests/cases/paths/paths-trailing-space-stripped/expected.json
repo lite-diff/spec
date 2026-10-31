@@ -1,0 +1,15 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "source": "f.txt",
+      "target": "f.txt"
+    },
+    {
+      "ordinal": 2,
+      "target": "new.txt"
+    }
+  ],
+  "exactTree": true
+}

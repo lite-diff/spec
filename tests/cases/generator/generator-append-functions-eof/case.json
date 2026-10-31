@@ -1,0 +1,13 @@
+{
+  "id": "generator-append-functions-eof",
+  "title": "append two functions at the end of the file",
+  "spec": [
+    "§7.1",
+    "§8.3"
+  ],
+  "options": {
+    "lite-diff": "1.1"
+  },
+  "uncertain": false,
+  "notes": ""
+}

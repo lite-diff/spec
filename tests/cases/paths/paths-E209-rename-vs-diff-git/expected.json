@@ -1,0 +1,18 @@
+{
+  "status": "failed",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "failed",
+      "operation": "rename"
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "E209"
+    }
+  ],
+  "forbidDiagnostics": [
+    "E608"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "parse-text-after-last-hunk",
+  "title": "unfenced prose after the last hunk is E401",
+  "spec": [
+    "§4.1",
+    "§7.2",
+    "Appendix A.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Without a fence there is no TRAILER: the prose is a body line with an invalid first character."
+}

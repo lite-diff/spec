@@ -1,0 +1,10 @@
+{
+  "id": "eof-bom-delete-first-line",
+  "title": "the BOM survives deletion of line 1",
+  "spec": [
+    "§1.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

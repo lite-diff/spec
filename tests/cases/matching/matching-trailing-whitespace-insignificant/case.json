@@ -1,0 +1,11 @@
+{
+  "id": "matching-trailing-whitespace-insignificant",
+  "title": "trailing whitespace never matters in matching; content kept as given",
+  "spec": [
+    "§1.3",
+    "§5.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "paths-trailing-space-stripped",
+  "title": "trailing spaces after an unquoted `---`/`+++` path are not part of the path",
+  "spec": [
+    "§6.3.4"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 28, §6.3.4: 'trailing spaces and tabs are removed', so a create does not make `new.txt␠` on POSIX."
+}

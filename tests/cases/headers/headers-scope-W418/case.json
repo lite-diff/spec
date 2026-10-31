@@ -1,0 +1,12 @@
+{
+  "id": "headers-scope-W418",
+  "title": "scope text occurring twice: first used, W418 lists both",
+  "spec": [
+    "§7.1",
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

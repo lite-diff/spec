@@ -1,0 +1,21 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "create",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 1,
+            "lineCount": 2
+          }
+        }
+      ]
+    }
+  ],
+  "exactTree": true
+}

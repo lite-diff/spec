@@ -1,0 +1,11 @@
+{
+  "id": "parse-E200-duplicate",
+  "title": "second --- in a header before any +++",
+  "spec": [
+    "§4.1",
+    "§6.3.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

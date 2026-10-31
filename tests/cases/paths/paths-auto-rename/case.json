@@ -1,0 +1,13 @@
+{
+  "id": "paths-auto-rename",
+  "title": "--auto-rename turns differing paths into a rename",
+  "spec": [
+    "§5.2",
+    "§6.4.2"
+  ],
+  "options": {
+    "auto-rename": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

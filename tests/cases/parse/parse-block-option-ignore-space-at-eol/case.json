@@ -1,0 +1,10 @@
+{
+  "id": "parse-block-option-ignore-space-at-eol",
+  "title": "`option ignore-space-at-eol` is accepted at block level (no-op)",
+  "spec": [
+    "§5.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 12, §5.5: `ignore-space-at-eol` (a no-op, accepted for symmetry) is in the allowed list."
+}

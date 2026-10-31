@@ -1,0 +1,11 @@
+{
+  "id": "paths-E210-no-path-source",
+  "title": "a block without any path source is E210",
+  "spec": [
+    "§6.3.1",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

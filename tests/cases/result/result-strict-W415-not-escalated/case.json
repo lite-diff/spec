@@ -1,0 +1,14 @@
+{
+  "id": "result-strict-W415-not-escalated",
+  "title": "--strict does not escalate W415",
+  "spec": [
+    "§5.2",
+    "§8.2"
+  ],
+  "options": {
+    "strict": true,
+    "indent-shift": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

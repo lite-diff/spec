@@ -1,0 +1,12 @@
+{
+  "id": "parse-version-marker-E308",
+  "title": "--lite-diff 2.0 is an unsupported major version",
+  "spec": [
+    "§5"
+  ],
+  "options": {
+    "lite-diff": "2.0"
+  },
+  "uncertain": false,
+  "notes": ""
+}

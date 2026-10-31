@@ -1,0 +1,6 @@
+--- x.txt
++++ /dev/null
+--- /dev/null
++++ x.txt
+@@
++new

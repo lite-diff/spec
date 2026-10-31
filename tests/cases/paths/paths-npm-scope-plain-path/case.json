@@ -1,0 +1,10 @@
+{
+  "id": "paths-npm-scope-plain-path",
+  "title": "`@types/index.d.ts` is an ordinary relative path in a single-root environment",
+  "spec": [
+    "§5.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 29, §5.3 note: the `@<root-name>/` prefix is recognized only when the host has declared a multi-root environment."
+}

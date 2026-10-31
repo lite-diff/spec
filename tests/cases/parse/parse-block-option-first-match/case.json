@@ -1,0 +1,12 @@
+{
+  "id": "parse-block-option-first-match",
+  "title": "block-level option first-match resolves an ambiguous anchor",
+  "spec": [
+    "§5.5",
+    "§5.2",
+    "§8.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

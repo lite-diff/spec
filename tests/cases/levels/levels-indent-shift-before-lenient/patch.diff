@@ -1,0 +1,12 @@
+--indent-shift
+--lenient
+--- a.py
++++ a.py
+@@
+ 	def f(self):
+-		x = 1
++		x = 2
++
++		y = 3
+
+ 		return x

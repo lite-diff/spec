@@ -1,0 +1,10 @@
+{
+  "id": "parse-pair-across-blank-and-comment",
+  "title": "'immediately followed' skips blank and comment lines in PREAMBLE",
+  "spec": [
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

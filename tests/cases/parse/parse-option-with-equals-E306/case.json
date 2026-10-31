@@ -1,0 +1,10 @@
+{
+  "id": "parse-option-with-equals-E306",
+  "title": "'=' is not an option separator: the line is E306",
+  "spec": [
+    "§5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "'--strip=1' does not match the option grammar '--<name>[ <value>]'; a non-matching -- line is E306."
+}

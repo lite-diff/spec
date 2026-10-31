@@ -1,0 +1,13 @@
+{
+  "id": "result-check-mode-continues-past-failure",
+  "title": "--check continues past a failing block: the third block is still checked, checkedWithSkips",
+  "spec": [
+    "§8.6",
+    "Appendix B"
+  ],
+  "options": {
+    "check": true
+  },
+  "uncertain": false,
+  "notes": "§12 item 33, §8.6 'Check mode': the match phase continues with the remaining blocks as if the failed block had been skipped; the overall status is still `failed`; Appendix B `checkedWithSkips`."
+}

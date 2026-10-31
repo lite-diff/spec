@@ -1,0 +1,9 @@
+--- f.txt
++++ f.txt
+@@
+ line1
+-// START
+...
+-// END
++// NEW
+ line6

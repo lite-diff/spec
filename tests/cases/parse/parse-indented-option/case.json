@@ -1,0 +1,12 @@
+{
+  "id": "parse-indented-option",
+  "title": "indented global option is E302",
+  "spec": [
+    "§3.2",
+    "§4.1",
+    "§5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

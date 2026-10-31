@@ -1,0 +1,18 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "edit",
+      "hunks": []
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W412",
+      "block": 1
+    }
+  ],
+  "exactTree": true
+}

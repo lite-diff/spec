@@ -1,0 +1,10 @@
+{
+  "id": "matching-delta-tie-breaker-explicit-counts",
+  "title": "the delta example with explicit counts qualifies as well",
+  "spec": [
+    "§8.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

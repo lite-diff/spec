@@ -1,0 +1,12 @@
+{
+  "id": "result-check-mode-hunks-after-failure",
+  "title": "--check: a hunk after a failing hunk of the same block is still checked",
+  "spec": [
+    "§8.6"
+  ],
+  "options": {
+    "check": true
+  },
+  "uncertain": false,
+  "notes": "§12 item 33 (AMBIGUITIES R16): §8.6 says check mode continues 'with the remaining blocks ... so that every block and hunk receives a status (checked or failed)'; the hunks after a failing hunk of the same block are matched as if the failed hunk had been skipped (cursor unchanged)."
+}

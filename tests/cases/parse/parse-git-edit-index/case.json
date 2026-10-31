@@ -1,0 +1,13 @@
+{
+  "id": "parse-git-edit-index",
+  "title": "git diff edit with an index line is one block",
+  "spec": [
+    "§4.1",
+    "§6.1",
+    "§6.3.1",
+    "§6.3.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "diff --git starts the block (PREAMBLE -> HEADER); index is ignored metadata; the ---/+++ pair is recorded in the same header because the header holds no +++ yet. a/ and b/ are stripped."
+}

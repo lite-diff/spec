@@ -1,0 +1,38 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "edit",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 4,
+            "lineCount": 1
+          },
+          "scopeLine": 1
+        }
+      ]
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W418",
+      "block": 1,
+      "hunk": 1,
+      "candidates": [
+        {
+          "line": 1,
+          "chosen": true
+        },
+        {
+          "line": 3
+        }
+      ]
+    }
+  ],
+  "exactTree": true
+}

@@ -1,0 +1,10 @@
+{
+  "id": "operations-E606-copy-incomplete",
+  "title": "'copy from' without 'copy to' is E606",
+  "spec": [
+    "§6.4.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

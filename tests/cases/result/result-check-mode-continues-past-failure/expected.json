@@ -1,0 +1,44 @@
+{
+  "status": "failed",
+  "checkedWithSkips": true,
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "checked",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "checked"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "status": "failed",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "failed"
+        }
+      ]
+    },
+    {
+      "ordinal": 3,
+      "status": "checked",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "checked"
+        }
+      ]
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "E410",
+      "block": 2,
+      "hunk": 1
+    }
+  ],
+  "exactTree": true
+}

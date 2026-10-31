@@ -1,0 +1,5 @@
+--- f.txt
++++ f.txt
+@@BOF
+-a
++x

@@ -1,0 +1,9 @@
+--strict
+--- loader.py
++++ loader.py
+@@
+-def load(path):
+...
+-        return data
++def load(path):
++    return read(path) if path else None

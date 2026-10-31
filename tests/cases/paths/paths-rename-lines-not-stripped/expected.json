@@ -1,0 +1,16 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "rename",
+      "hunks": []
+    }
+  ],
+  "absent": [
+    "a/old.txt",
+    "new.txt"
+  ],
+  "exactTree": true
+}

@@ -1,0 +1,13 @@
+{
+  "id": "levels-exact-wins",
+  "title": "an exact candidate wins over re-indented / lenient ones",
+  "spec": [
+    "§8.2"
+  ],
+  "options": {
+    "indent-shift": true,
+    "lenient": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

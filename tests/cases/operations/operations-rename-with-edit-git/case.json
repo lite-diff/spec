@@ -1,0 +1,12 @@
+{
+  "id": "operations-rename-with-edit-git",
+  "title": "git rename with edit: hunks matched against the source, written to the target",
+  "spec": [
+    "§6.4.3",
+    "§4.1",
+    "§6.3.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,11 @@
+{
+  "id": "parse-indented-path-header",
+  "title": "indented +++ in a header (before any +++) is E206",
+  "spec": [
+    "§3.2",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The header holds no +++ yet, so the E404 bullet does not apply; the indented-lexeme bullet does. An E200 for the unpaired --- may also be reported (not asserted)."
+}

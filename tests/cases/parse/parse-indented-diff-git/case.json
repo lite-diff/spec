@@ -1,0 +1,11 @@
+{
+  "id": "parse-indented-diff-git",
+  "title": "indented diff --git in the preamble is E205",
+  "spec": [
+    "§3.2",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "paths-E101-dotdot",
+  "title": "a '..' component is E101",
+  "spec": [
+    "§6.3.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

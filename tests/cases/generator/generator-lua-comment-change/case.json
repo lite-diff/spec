@@ -1,0 +1,12 @@
+{
+  "id": "generator-lua-comment-change",
+  "title": "change a Lua '--' comment and the value below it",
+  "spec": [
+    "§7.2"
+  ],
+  "options": {
+    "lite-diff": "1.1"
+  },
+  "uncertain": false,
+  "notes": ""
+}

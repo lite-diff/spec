@@ -1,0 +1,15 @@
+{
+  "id": "paths-colon-E100-windows",
+  "title": "a colon anywhere in a path is E100 on Windows (`notes:2026.txt` would be an NTFS alternate data stream)",
+  "spec": [
+    "§6.3.3",
+    "§6.3.5",
+    "§10"
+  ],
+  "options": {},
+  "platforms": [
+    "windows"
+  ],
+  "uncertain": false,
+  "notes": "§12 item 29. On NTFS `notes:2026.txt` names the alternate data stream `2026.txt` of a file `notes`, and `c:x.txt` is relative to the current directory of drive C:, outside the workspace; both are silent relocations, so the path is rejected as E100 on Windows. The POSIX reading is `paths-colon-is-ordinary`. The second block (`c:x.txt`) shows that the parse phase reports both blocks."
+}

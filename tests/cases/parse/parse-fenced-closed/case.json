@@ -1,0 +1,11 @@
+{
+  "id": "parse-fenced-closed",
+  "title": "document wrapped in a Markdown fence",
+  "spec": [
+    "§4.1",
+    "§5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Opening fence ignored with W300; the closing fence in BODY enters TRAILER."
+}

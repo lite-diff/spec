@@ -1,0 +1,12 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E603",
+      "block": 1
+    }
+  ],
+  "absent": [
+    "b.txt"
+  ]
+}

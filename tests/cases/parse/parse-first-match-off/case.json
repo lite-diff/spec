@@ -1,0 +1,11 @@
+{
+  "id": "parse-first-match-off",
+  "title": "`--first-match off` switches the option off: an ambiguous anchor is E414",
+  "spec": [
+    "§5",
+    "§8.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 8, §5 option grammar: 'A boolean option is switched off with the value `off`'."
+}

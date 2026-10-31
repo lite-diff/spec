@@ -1,0 +1,11 @@
+{
+  "id": "body-blank-line-empty-context",
+  "title": "a blank body line is the context of an empty line",
+  "spec": [
+    "§3.1",
+    "§7.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

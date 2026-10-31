@@ -1,0 +1,6 @@
+diff --git a/@types/index.d.ts b/@types/index.d.ts
+--- a/@types/index.d.ts
++++ b/@types/index.d.ts
+@@
+-export {};
++export type X = 1;

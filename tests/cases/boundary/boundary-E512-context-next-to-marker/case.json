@@ -1,0 +1,10 @@
+{
+  "id": "boundary-E512-context-next-to-marker",
+  "title": "the anchor element before '...' is a context line: E512",
+  "spec": [
+    "§7.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 34 (§8.6 'offending line'): 'E5xx on a `...` marker' - the offending line is the `...` line, not the context line next to it."
+}

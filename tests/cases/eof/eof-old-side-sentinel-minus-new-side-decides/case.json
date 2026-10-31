@@ -1,0 +1,11 @@
+{
+  "id": "eof-old-side-sentinel-minus-new-side-decides",
+  "title": "a sentinel after the deleted last line is old-side: the new side (no sentinel) makes the result terminated",
+  "spec": [
+    "§1.3",
+    "§3.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 items 23 and 24: the sentinel follows a `-` line (old side) and agrees with the file (its last line is unterminated), so no W419; no sentinel follows the last `+` line, so the result is terminated."
+}

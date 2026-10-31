@@ -1,0 +1,11 @@
+{
+  "id": "matching-E410-tabs-vs-spaces",
+  "title": "E410 best candidate classified as tabs versus spaces",
+  "spec": [
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

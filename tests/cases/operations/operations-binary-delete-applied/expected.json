@@ -1,0 +1,23 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "delete"
+    },
+    {
+      "ordinal": 2,
+      "status": "applied",
+      "operation": "delete"
+    }
+  ],
+  "absent": [
+    "img.png",
+    "logo.bin"
+  ],
+  "forbidDiagnostics": [
+    "W601"
+  ],
+  "exactTree": true
+}

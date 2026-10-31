@@ -1,0 +1,11 @@
+{
+  "id": "headers-unified-with-section",
+  "title": "unified header with section text: section ignored, position by content",
+  "spec": [
+    "§7.1",
+    "§1.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The numbers are deliberately wrong (old start 5 vs real 6); the anchor is unique, so they are not used."
+}

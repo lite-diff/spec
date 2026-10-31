@@ -1,0 +1,6 @@
+line1
+// START
+old content
+more old content
+// END
+line6

@@ -1,0 +1,12 @@
+{
+  "id": "paths-rename-then-mismatched-pair",
+  "title": "natural-order rename with a mistyped +++ is E209 in the rename block",
+  "spec": [
+    "§4.1",
+    "§6.3.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 1: §4.1 HEADER, a pair after a completed from/to pair belongs to the rename header when its `---` path equals `from` ('a `+++` path that differs from `to` is then E209, so a typo in `+++` is reported precisely'). '--- a.txt' equals 'rename from a.txt', so the document is one block and '+++ c.txt' vs 'rename to b.txt' is E209 (§6.3.2 check 3)."
+}

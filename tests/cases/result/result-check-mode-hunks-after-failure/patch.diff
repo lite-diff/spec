@@ -1,0 +1,9 @@
+--check
+--- f.txt
++++ f.txt
+@@
+-9
++nine
+@@
+-3
++three

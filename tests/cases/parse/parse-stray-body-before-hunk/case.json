@@ -1,0 +1,11 @@
+{
+  "id": "parse-stray-body-before-hunk",
+  "title": "body lines before @@ are E404, reported once per block",
+  "spec": [
+    "§4.1",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "HEADER holds +++; ' context' is a body-looking line -> E404 once; '+stray' is skipped. The following hunk parses normally; it carries no error, so it is not-attempted."
+}

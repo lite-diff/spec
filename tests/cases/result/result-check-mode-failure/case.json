@@ -1,0 +1,13 @@
+{
+  "id": "result-check-mode-failure",
+  "title": "--check with a failing hunk reports 'failed'",
+  "spec": [
+    "§5.2",
+    "§8.6"
+  ],
+  "options": {
+    "check": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

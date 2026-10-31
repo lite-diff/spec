@@ -1,0 +1,45 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "edit",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 2,
+            "lineCount": 2
+          }
+        },
+        {
+          "ordinal": 2,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 4,
+            "lineCount": 1
+          }
+        }
+      ]
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W413",
+      "block": 1,
+      "hunk": 2,
+      "candidates": [
+        {
+          "line": 1
+        },
+        {
+          "line": 4,
+          "chosen": true
+        }
+      ]
+    }
+  ],
+  "exactTree": true
+}

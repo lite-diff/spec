@@ -1,0 +1,10 @@
+{
+  "id": "boundary-E511-marker-first",
+  "title": "'...' before any anchor element is E511",
+  "spec": [
+    "§7.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

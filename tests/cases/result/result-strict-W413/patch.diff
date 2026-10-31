@@ -1,0 +1,9 @@
+--strict
+--- f.txt
++++ f.txt
+@@
+ bar
++BAR
+@@
+-foo
++FOO

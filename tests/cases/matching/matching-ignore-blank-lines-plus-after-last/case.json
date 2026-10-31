@@ -1,0 +1,13 @@
+{
+  "id": "matching-ignore-blank-lines-plus-after-last",
+  "title": "§5.1 example 1: '+c' after ' b' with a skipped blank between a and b",
+  "spec": [
+    "§5.1",
+    "§8.3"
+  ],
+  "options": {
+    "ignore-blank-lines": true
+  },
+  "uncertain": false,
+  "notes": "§8.3 places skipped blanks after the anchor that precedes them and its directly following + lines; '+c' follows ' b', so the result is a,'',b,c. The §5.1 example gives the same result (§12 item 19)."
+}

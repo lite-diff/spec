@@ -1,0 +1,16 @@
+{
+  "id": "paths-colon-is-ordinary",
+  "title": "`notes:2026.txt` is a plain path on POSIX (the `<prefix>:` form is removed)",
+  "spec": [
+    "§6.3.5",
+    "§10"
+  ],
+  "options": {
+    "check": true
+  },
+  "uncertain": false,
+  "notes": "§12 item 29: the `<prefix>:` form is removed, so `notes:` is not stripped: on POSIX the create targets the ordinary path `notes:2026.txt`, not the existing `2026.txt` (no E600, no E201). On Windows a colon in a path is E100 (see `paths-colon-E100-windows`), so this case runs on POSIX only; it runs under --check so that no file with a colon is created. See AMBIGUITIES R17.",
+  "platforms": [
+    "posix"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "generator-appendix-a5-verbatim",
+  "title": "Appendix A.5 verbatim: the new load() replaces the old one",
+  "spec": [
+    "Appendix A.5",
+    "§8.3",
+    "§7.3"
+  ],
+  "options": {
+    "lite-diff": "1.1"
+  },
+  "uncertain": false,
+  "notes": "§12 item 14: in Appendix A.5 the `+` lines of the rename block precede the context lines ' ' and ' def save(data):', so by the output-sequence rule of §8.3 the new load() is written in place of the old function (A.5 'Expected result'). patch.diff is the A.5 document byte for byte (the blank context line is a single space). The two context lines belong to the last segment, so W511 does not fire (asserted)."
+}

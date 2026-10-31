@@ -1,0 +1,10 @@
+{
+  "id": "matching-W417-insert-before-anchor",
+  "title": "W417 for a re-applied insertion placed before its anchor line",
+  "spec": [
+    "§8.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 20 (AMBIGUITIES R15): 'the applied pattern also matches at the candidate position' is read with the applied pattern aligned on the anchor (tried one line before the candidate, where a previous application put the `+` line). Read literally (applied pattern starting at the candidate) the re-applied insertion-before (§2.3) would never be detected."
+}

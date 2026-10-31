@@ -1,0 +1,5 @@
+--- f.txt
++++ f.txt
+@@ -1 +1 @@section
+-a
++x

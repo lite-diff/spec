@@ -1,0 +1,8 @@
+--- f.txt
++++ f.txt
+@@
+-1
++one
+# the next line
+
+ 2

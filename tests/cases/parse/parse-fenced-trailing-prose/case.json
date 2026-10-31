@@ -1,0 +1,11 @@
+{
+  "id": "parse-fenced-trailing-prose",
+  "title": "prose after the closing fence is E306",
+  "spec": [
+    "§4.1",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "TRAILER: blank lines ignored, any other line E306. The E306 belongs to no block, so the only block is not-attempted (§8.6 phases)."
+}

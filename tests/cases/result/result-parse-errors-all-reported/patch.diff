@@ -1,0 +1,18 @@
+--- a.txt
++++ a.txt
+@@
+-1
++one
+--- b.txt
++++ b.txt
+@@
+-2
+note without prefix
++two
+--- c.txt
++++ c.txt
+@@ EOF
++tail
+@@
+ 3
++x

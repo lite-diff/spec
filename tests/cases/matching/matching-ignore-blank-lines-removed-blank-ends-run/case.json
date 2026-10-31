@@ -1,0 +1,14 @@
+{
+  "id": "matching-ignore-blank-lines-removed-blank-ends-run",
+  "title": "--ignore-blank-lines: a removed blank context ends the run of `+` lines after the previous anchor element",
+  "spec": [
+    "§5.1",
+    "§8.2",
+    "§8.3"
+  ],
+  "options": {
+    "ignore-blank-lines": true
+  },
+  "uncertain": false,
+  "notes": "§12 item 19 (§8.2 step 5 '--ignore-blank-lines and the anchor'): the blank body line is removed from the pattern and ends the run of `+` lines directly following ` a`, so `+c` is placed after the skipped blank file line."
+}

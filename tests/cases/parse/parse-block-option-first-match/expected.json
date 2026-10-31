@@ -1,0 +1,24 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "edit",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 1,
+            "lineCount": 1
+          }
+        }
+      ]
+    }
+  ],
+  "forbidDiagnostics": [
+    "E414"
+  ],
+  "exactTree": true
+}

@@ -1,0 +1,11 @@
+{
+  "id": "boundary-AXAB-E414",
+  "title": "file A X A B with -A/.../-B has two candidates (0 and 2): E414",
+  "spec": [
+    "§8.2",
+    "§7.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

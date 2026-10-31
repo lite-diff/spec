@@ -1,0 +1,10 @@
+--indent-shift
+--- f.go
++++ f.go
+@@
+ func f() {
+     if x {
+-        y()
++        if z {
++            w()
++        }

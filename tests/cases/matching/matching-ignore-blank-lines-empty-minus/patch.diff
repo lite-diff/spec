@@ -1,0 +1,7 @@
+--ignore-blank-lines
+--- f.txt
++++ f.txt
+@@
+ a
+-
+ b

@@ -1,0 +1,9 @@
+--apply-all-matches
+--- f.txt
++++ f.txt
+@@
+-A
++X
+@@
+-C
++Y

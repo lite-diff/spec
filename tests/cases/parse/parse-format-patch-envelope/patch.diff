@@ -1,0 +1,18 @@
+From 5d3c2a1b9e Mon Sep 17 00:00:00 2001
+From: Dev <dev@example.com>
+Date: Mon, 5 Oct 2026 10:00:00 +0200
+Subject: [PATCH] Fix greeting
+
+---
+ f.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/f.txt b/f.txt
+index 1111111..2222222 100644
+--- a/f.txt
++++ b/f.txt
+@@ -1 +1 @@
+-a
++b
+-- 
+2.43.0

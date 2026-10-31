@@ -1,0 +1,11 @@
+{
+  "id": "parse-missing-hunk-header",
+  "title": "block whose @@ line is missing entirely",
+  "spec": [
+    "§4.1",
+    "§6.4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "First body-looking line after +++ is E404; the rest of the block's body-looking lines are skipped."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "parse-block-option-is-per-block",
+  "title": "a block option does not leak into the next block",
+  "spec": [
+    "§5.5",
+    "§8.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

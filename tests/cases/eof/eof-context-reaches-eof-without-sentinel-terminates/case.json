@@ -1,0 +1,10 @@
+{
+  "id": "eof-context-reaches-eof-without-sentinel-terminates",
+  "title": "a hunk whose trailing context reaches an unterminated last line, without a sentinel, terminates the file",
+  "spec": [
+    "§1.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 23: the anchor block includes the file's last line `b`, so the hunk reaches the end of file and its new side decides; no sentinel was recorded, so the last line is terminated ('a previously unterminated last line gains a terminator'), although the original last line is still last. Compare `eof-edit-elsewhere-keeps-unterminated`, where no hunk reaches the end of file."
+}

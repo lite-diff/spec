@@ -1,0 +1,11 @@
+{
+  "id": "parse-block-option-E301",
+  "title": "unknown block-level option name is E301",
+  "spec": [
+    "§5.5",
+    "§10"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

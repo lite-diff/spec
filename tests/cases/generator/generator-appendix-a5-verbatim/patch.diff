@@ -1,0 +1,32 @@
+```diff
+--lite-diff 1.1
+--- src/app.py
++++ src/app.py
+@@
+ import os
++import json
+ import sys
+@@ def main(
+-    data = load()
++    data = json.loads(load())
+     return data
+
+rename from src/util.py
+rename to src/utils.py
+--- src/util.py
++++ src/utils.py
+@@
+-def load():
+...
+-    return raw
++def load():
++    return read_all()
+ 
+ def save(data):
+
+--- /dev/null
++++ src/read.py
+@@
++def read_all():
++    return ""
+```

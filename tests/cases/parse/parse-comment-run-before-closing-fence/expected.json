@@ -1,0 +1,14 @@
+{
+  "status": "applied",
+  "diagnostics": [
+    {
+      "code": "W300",
+      "patchLine": 1
+    }
+  ],
+  "forbidDiagnostics": [
+    "E401",
+    "E306"
+  ],
+  "exactTree": true
+}

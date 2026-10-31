@@ -1,0 +1,13 @@
+{
+  "id": "result-strict-W412-hunk",
+  "title": "--strict escalates W412 for a context-only hunk",
+  "spec": [
+    "§5.2",
+    "§7.2"
+  ],
+  "options": {
+    "strict": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,10 @@
+{
+  "id": "operations-delete-with-plus-E415",
+  "title": "a + line in a delete block is E415",
+  "spec": [
+    "§6.4.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

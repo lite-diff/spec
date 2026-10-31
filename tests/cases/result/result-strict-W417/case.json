@@ -1,0 +1,14 @@
+{
+  "id": "result-strict-W417",
+  "title": "--strict escalates W417: a re-applied insertion fails the document",
+  "spec": [
+    "§5.2",
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {
+    "strict": true
+  },
+  "uncertain": false,
+  "notes": "§12 item 21, §5.2: W417 is in the --strict list."
+}

@@ -1,0 +1,16 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E306",
+      "patchLine": 2
+    },
+    {
+      "code": "E401",
+      "patchLine": 8
+    }
+  ],
+  "forbidDiagnostics": [
+    "W300"
+  ]
+}

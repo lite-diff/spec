@@ -1,0 +1,11 @@
+{
+  "id": "paths-E605-duplicate-rename-from",
+  "title": "a duplicate `rename from` line is E605",
+  "spec": [
+    "§6.4.2",
+    "§10"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 25, §10 E605: 'or a duplicate of either in one header'. The offending line is the duplicate (§8.6: the operation line that conflicts)."
+}

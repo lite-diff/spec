@@ -1,0 +1,11 @@
+{
+  "id": "eof-eof-on-unterminated",
+  "title": "@@ EOF on a file without a final newline: the old last line gains one",
+  "spec": [
+    "§1.3",
+    "§8.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 23: an `@@ EOF` hunk reaches the end of file; without a sentinel after its last `+` line the result is terminated."
+}

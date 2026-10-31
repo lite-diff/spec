@@ -1,0 +1,6 @@
+--strict
+--- f.txt
++++ f.txt
+@@
+ a
+ b

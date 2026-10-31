@@ -1,0 +1,6 @@
+--strip 0
+--- a/f.txt
++++ a/f.txt
+@@
+-x
++y

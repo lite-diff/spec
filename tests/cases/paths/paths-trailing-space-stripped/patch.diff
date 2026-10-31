@@ -1,0 +1,9 @@
+--- f.txt  
++++ f.txt 
+@@
+-a
++b
+--- /dev/null
++++ new.txt 
+@@
++n

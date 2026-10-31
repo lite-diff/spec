@@ -1,0 +1,10 @@
+{
+  "id": "paths-E605-rename-to-without-from",
+  "title": "'rename to' without 'rename from' is E605",
+  "spec": [
+    "§6.4.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

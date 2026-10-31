@@ -1,0 +1,11 @@
+{
+  "id": "boundary-E511-precedes-E512",
+  "title": "'...' at the end after a context line: E511 takes precedence over E512",
+  "spec": [
+    "§7.3",
+    "§10"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

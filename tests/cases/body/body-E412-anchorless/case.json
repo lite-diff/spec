@@ -1,0 +1,11 @@
+{
+  "id": "body-E412-anchorless",
+  "title": "an @@ hunk with only + lines in an edit block is E412",
+  "spec": [
+    "§8.3",
+    "§10"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The patch line of E412 is the hunk header: §12 item 34 (§8.6 'offending line') defines the offending line for 'a hunk-level code with no single line (E412, E416, E417, E411 raised at the end of a hunk)' as the hunk header line."
+}

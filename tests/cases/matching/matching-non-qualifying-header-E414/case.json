@@ -1,0 +1,10 @@
+{
+  "id": "matching-non-qualifying-header-E414",
+  "title": "a unified header whose counts do not fit the body is no tie-breaker",
+  "spec": [
+    "§8.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "m = 3 but the body has one context/blank/- line (t = 0): not qualifying -> E414."
+}

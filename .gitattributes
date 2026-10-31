@@ -1,0 +1,3 @@
+# Conformance fixtures carry exact bytes (LF, CRLF, mixed, BOM, unterminated
+# last lines); never convert line endings in this repository.
+* -text

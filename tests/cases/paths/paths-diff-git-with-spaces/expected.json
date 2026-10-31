@@ -1,0 +1,8 @@
+{
+  "status": "applied",
+  "forbidDiagnostics": [
+    "E204",
+    "E202"
+  ],
+  "exactTree": true
+}

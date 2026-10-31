@@ -1,0 +1,10 @@
+{
+  "id": "paths-nfc-normalization",
+  "title": "a decomposed path in the patch names the NFC file on disk",
+  "spec": [
+    "§6.3.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Paths are normalized to NFC before use; the patch spells e + U+0301."
+}

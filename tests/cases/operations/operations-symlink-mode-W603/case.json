@@ -1,0 +1,12 @@
+{
+  "id": "operations-symlink-mode-W603",
+  "title": "a block declaring mode 120000 is skipped with W603",
+  "spec": [
+    "§6.4.1",
+    "§6.2",
+    "§1.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

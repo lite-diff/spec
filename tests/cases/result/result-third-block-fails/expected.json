@@ -1,0 +1,46 @@
+{
+  "status": "failed",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "matched",
+      "operation": "edit",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "matched"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "status": "matched",
+      "operation": "edit",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "matched"
+        }
+      ]
+    },
+    {
+      "ordinal": 3,
+      "status": "failed",
+      "operation": "edit",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "failed"
+        }
+      ]
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "E410",
+      "block": 3,
+      "hunk": 1
+    }
+  ],
+  "exactTree": true
+}

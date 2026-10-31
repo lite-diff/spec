@@ -1,0 +1,12 @@
+{
+  "id": "paths-git-dev-null-without-mode",
+  "title": "/dev/null with diff --git a/x b/x and no 'new file mode' is a create",
+  "spec": [
+    "§6.3.1",
+    "§6.3.2",
+    "§9.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Rule 0: /dev/null on the --- side wins over diff --git; E202 does not compare the null side."
+}

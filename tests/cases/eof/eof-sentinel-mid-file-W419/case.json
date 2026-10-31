@@ -1,0 +1,12 @@
+{
+  "id": "eof-sentinel-mid-file-W419",
+  "title": "a sentinel in a hunk that does not reach the end of file is W419 and has no effect",
+  "spec": [
+    "§1.3",
+    "§9.2",
+    "§10"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 24: 'A sentinel in a hunk that does not reach the end of file is also W419 and has no effect'."
+}

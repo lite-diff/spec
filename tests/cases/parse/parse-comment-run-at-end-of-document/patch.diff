@@ -1,0 +1,8 @@
+--- f.txt
++++ f.txt
+@@
+-a
++b
+# done
+
+# end of patch

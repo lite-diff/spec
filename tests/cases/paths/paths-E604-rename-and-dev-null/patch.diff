@@ -1,0 +1,4 @@
+rename from a.txt
+--- /dev/null
++++ b.txt
+rename to b.txt

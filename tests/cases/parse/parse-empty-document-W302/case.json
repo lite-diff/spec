@@ -1,0 +1,10 @@
+{
+  "id": "parse-empty-document-W302",
+  "title": "an empty document is W302 and `applied`",
+  "spec": [
+    "§10"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 9: W302 'Document contains no diff block (status applied, nothing written)'."
+}

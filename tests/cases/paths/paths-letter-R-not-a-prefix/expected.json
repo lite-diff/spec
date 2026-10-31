@@ -1,0 +1,7 @@
+{
+  "status": "applied",
+  "absent": [
+    "new.R"
+  ],
+  "exactTree": true
+}

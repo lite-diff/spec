@@ -1,0 +1,11 @@
+{
+  "id": "eof-old-side-sentinel-context-then-plus",
+  "title": "a sentinel after a context line followed by `+` lines is old-side; the `+` lines end terminated",
+  "spec": [
+    "§1.3",
+    "§3.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 24 (§1.3: 'a sentinel recorded after the old side (after a `-` line or a context line that is followed by `+` lines)'): old-side, consistent with the file; the new side has no sentinel after `+c`, so the formerly unterminated `b` gains a terminator and `c` receives one (item 23)."
+}

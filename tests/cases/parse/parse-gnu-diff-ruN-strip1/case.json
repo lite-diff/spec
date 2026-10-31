@@ -1,0 +1,16 @@
+{
+  "id": "parse-gnu-diff-ruN-strip1",
+  "title": "multi-file GNU diff -ruN old/ new/ with --strip 1",
+  "spec": [
+    "§1.1",
+    "§3.1",
+    "§4.1",
+    "§5.3",
+    "§6.3.4"
+  ],
+  "options": {
+    "strip": "1"
+  },
+  "uncertain": false,
+  "notes": "'diff -ruN ...' is a diff command line: a block start whose paths come from ---/+++. Timestamps after the tab are ignored; --strip 1 maps old/x and new/x to x."
+}

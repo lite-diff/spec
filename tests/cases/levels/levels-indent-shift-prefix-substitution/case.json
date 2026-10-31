@@ -1,0 +1,13 @@
+{
+  "id": "levels-indent-shift-prefix-substitution",
+  "title": "a + line deeper than every anchor line is re-indented by prefix substitution",
+  "spec": [
+    "§8.2",
+    "§5.2"
+  ],
+  "options": {
+    "indent-shift": true
+  },
+  "uncertain": false,
+  "notes": "All pairs reduce to (X, Y) = ('', 4 SP) after removing their common suffix; the 12-space + line is outside the domain and gets X replaced by Y (16 spaces)."
+}

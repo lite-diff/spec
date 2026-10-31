@@ -1,0 +1,10 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E310",
+      "patchLine": 5
+    }
+  ],
+  "exactTree": true
+}

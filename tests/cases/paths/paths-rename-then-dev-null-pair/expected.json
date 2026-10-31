@@ -1,0 +1,22 @@
+{
+  "status": "failed",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "matched"
+    },
+    {
+      "ordinal": 2,
+      "status": "failed"
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "E600",
+      "block": 2
+    }
+  ],
+  "forbidDiagnostics": [
+    "E604"
+  ]
+}

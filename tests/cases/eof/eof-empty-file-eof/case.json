@@ -1,0 +1,10 @@
+{
+  "id": "eof-empty-file-eof",
+  "title": "appending to an empty (zero-line) file",
+  "spec": [
+    "§1.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "An empty file has no terminated line, so the inserted line gets the default EOL, which §12 item 22 (§1.3, §5.3) defines as LF unless --eol crlf is set."
+}

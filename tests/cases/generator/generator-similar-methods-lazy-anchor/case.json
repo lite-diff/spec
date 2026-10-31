@@ -1,0 +1,14 @@
+{
+  "id": "generator-similar-methods-lazy-anchor",
+  "title": "lazy anchor shared by two similar methods fails with E414",
+  "spec": [
+    "§8.2",
+    "§8.6",
+    "Appendix A.4"
+  ],
+  "options": {
+    "lite-diff": "1.1"
+  },
+  "uncertain": false,
+  "notes": "The first attempt an agent typically sends; the corrected version is generator-similar-methods-scoped."
+}

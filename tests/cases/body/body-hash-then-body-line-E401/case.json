@@ -1,0 +1,12 @@
+{
+  "id": "body-hash-then-body-line-E401",
+  "title": "a `#` line followed (after a blank line) by a body line is E401",
+  "spec": [
+    "§3.1",
+    "§4.1",
+    "§7.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 5: the lookahead skips `#` and blank lines; the next other line ` 2` is a body line, so the `#` line is not a trailing comment run and is E401."
+}

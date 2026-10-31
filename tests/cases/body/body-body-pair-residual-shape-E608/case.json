@@ -1,0 +1,12 @@
+{
+  "id": "body-body-pair-residual-shape-E608",
+  "title": "a ---/+++ pair as the last body lines before a blank is a header",
+  "spec": [
+    "§7.2",
+    "§6.3.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The residual ambiguous shape of §7.2: the author meant to delete '-- old note' and insert '++ new note', but a blank line after +++ makes the pair a genuine header with differing paths 'old note'/'new note' -> E608 (a hunk-less E404 may be reported as well)."
+}

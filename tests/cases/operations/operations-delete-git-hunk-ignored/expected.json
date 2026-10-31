@@ -1,0 +1,20 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "delete",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "skipped"
+        }
+      ]
+    }
+  ],
+  "absent": [
+    "old.txt"
+  ],
+  "exactTree": true
+}

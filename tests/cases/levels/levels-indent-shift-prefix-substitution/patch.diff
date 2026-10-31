@@ -1,0 +1,10 @@
+--indent-shift
+--- a.py
++++ a.py
+@@
+ def f(self):
+     if x:
+-        y = 1
++        y = 2
++        if z:
++            w = 3

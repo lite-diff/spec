@@ -1,0 +1,12 @@
+{
+  "id": "paths-rename-lines-not-stripped",
+  "title": "rename paths are never prefix-stripped (real directory a/)",
+  "spec": [
+    "§6.3.2",
+    "§6.3.5",
+    "§6.3.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,7 @@
+--- f.lua
++++ f.lua
+@@
+ local x = 1
+--- old comment
++-- new comment
+ print(x)

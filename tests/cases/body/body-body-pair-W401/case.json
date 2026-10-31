@@ -1,0 +1,12 @@
+{
+  "id": "body-body-pair-W401",
+  "title": "a ---/+++ pair followed by a body line is two body lines with W401",
+  "spec": [
+    "§7.2",
+    "§4.1",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": true,
+  "notes": "Body-pair rule fires because ' end' starts with a space. W401 'naming the line': the case asserts the --- line (5); the +++ line (6) is the other reading (AMBIGUITIES.md)."
+}

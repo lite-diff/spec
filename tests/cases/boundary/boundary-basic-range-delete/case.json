@@ -1,0 +1,12 @@
+{
+  "id": "boundary-basic-range-delete",
+  "title": "§7.3 example: range from START to END replaced",
+  "spec": [
+    "§7.3",
+    "§2.5",
+    "§8.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

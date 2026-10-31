@@ -1,0 +1,18 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E410",
+      "block": 1,
+      "hunk": 1,
+      "bestCandidate": {
+        "line": 1,
+        "failedElementIndex": 2,
+        "classification": "leading-whitespace"
+      }
+    }
+  ],
+  "forbidDiagnostics": [
+    "W415"
+  ]
+}

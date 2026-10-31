@@ -1,0 +1,8 @@
+--lite-diff 1.1
+--- loader.lua
++++ loader.lua
+@@
+--- default timeout in seconds
+-M.timeout = 30
++-- default timeout in milliseconds
++M.timeout = 30000

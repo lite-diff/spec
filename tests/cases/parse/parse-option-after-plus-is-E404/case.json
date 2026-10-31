@@ -1,0 +1,11 @@
+{
+  "id": "parse-option-after-plus-is-E404",
+  "title": "option-looking line right after +++ is E404, not E300",
+  "spec": [
+    "§4.1",
+    "Appendix A.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§4.1 lists 'an option-looking --... line in that position' under E404. Appendix A.3 lists E404 for this position too ('also when the first body line starts with `--`', §12 item 36), so the text is consistent."
+}

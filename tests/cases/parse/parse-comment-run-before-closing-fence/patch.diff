@@ -1,0 +1,8 @@
+```diff
+--- f.txt
++++ f.txt
+@@
+-a
++b
+# that is all
+```

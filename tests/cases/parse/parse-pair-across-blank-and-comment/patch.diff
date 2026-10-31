@@ -1,0 +1,7 @@
+--- f.txt
+
+# about to edit
++++ f.txt
+@@
+-a
++b

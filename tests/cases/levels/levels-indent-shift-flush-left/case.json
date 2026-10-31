@@ -1,0 +1,12 @@
+{
+  "id": "levels-indent-shift-flush-left",
+  "title": "flush-left patch: sigma = {'' -> Q}, every + line gets Q prepended",
+  "spec": [
+    "§8.2"
+  ],
+  "options": {
+    "indent-shift": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

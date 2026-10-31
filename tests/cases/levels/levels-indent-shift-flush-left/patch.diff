@@ -1,0 +1,8 @@
+--indent-shift
+--- f.py
++++ f.py
+@@
+ a = 1
+-b = 2
++b = 3
++c = 4

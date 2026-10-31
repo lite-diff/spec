@@ -1,0 +1,11 @@
+{
+  "id": "parse-comment-run-before-closing-fence",
+  "title": "a `#` run before the closing fence is a trailing comment run",
+  "spec": [
+    "§3.1",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 5: 'followed directly by ... a closing fence'."
+}

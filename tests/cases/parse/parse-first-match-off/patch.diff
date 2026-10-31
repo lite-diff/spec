@@ -1,0 +1,6 @@
+--first-match off
+--- f.txt
++++ f.txt
+@@
+-}
++)

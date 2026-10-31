@@ -1,0 +1,21 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "skipped"
+    },
+    {
+      "ordinal": 2,
+      "status": "applied",
+      "operation": "edit"
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W601",
+      "block": 1
+    }
+  ],
+  "exactTree": true
+}

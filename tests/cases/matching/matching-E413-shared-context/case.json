@@ -1,0 +1,11 @@
+{
+  "id": "matching-E413-shared-context",
+  "title": "hunk 2 repeats hunk 1's trailing context: E413 shared-context",
+  "spec": [
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

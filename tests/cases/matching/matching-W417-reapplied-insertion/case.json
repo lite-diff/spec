@@ -1,0 +1,12 @@
+{
+  "id": "matching-W417-reapplied-insertion",
+  "title": "a re-applied pure insertion is W417 (applied, duplicating the line, without --strict)",
+  "spec": [
+    "§5.2",
+    "§8.2",
+    "§10"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 20: the hunk has no `-` line; its applied pattern (`import os`, `import sys`) also matches at the candidate, so W417 is mandatory. It is a warning only: without --strict or --skip-applied the hunk is applied."
+}

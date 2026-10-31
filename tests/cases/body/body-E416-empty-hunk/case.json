@@ -1,0 +1,11 @@
+{
+  "id": "body-E416-empty-hunk",
+  "title": "a hunk whose body is only a trailing blank is empty (E416)",
+  "spec": [
+    "§7.2",
+    "§3.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The blank line is trailing and stripped, leaving no body lines. §12 item 34 (§8.6 'offending line'): a hunk-level code with no single line is reported at the hunk header line."
+}

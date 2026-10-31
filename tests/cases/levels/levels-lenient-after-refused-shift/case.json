@@ -1,0 +1,14 @@
+{
+  "id": "levels-lenient-after-refused-shift",
+  "title": "level (c) applies when level (b) refuses a non-function sigma",
+  "spec": [
+    "§8.2",
+    "§5.2"
+  ],
+  "options": {
+    "indent-shift": true,
+    "lenient": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

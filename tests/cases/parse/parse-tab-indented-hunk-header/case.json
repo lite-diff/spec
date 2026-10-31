@@ -1,0 +1,12 @@
+{
+  "id": "parse-tab-indented-hunk-header",
+  "title": "tab-indented @@ after +++ is E400, then the body lines are E404",
+  "spec": [
+    "§3.2",
+    "§4.1",
+    "§7.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "A tab is not a body-looking first character, so the indented-lexeme bullet gives E400."
+}

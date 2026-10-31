@@ -1,0 +1,11 @@
+{
+  "id": "parse-E300-option-in-header",
+  "title": "option-grammar line in a header (before +++) is E300",
+  "spec": [
+    "§4.1",
+    "§5.4"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

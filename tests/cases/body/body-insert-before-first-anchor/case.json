@@ -1,0 +1,11 @@
+{
+  "id": "body-insert-before-first-anchor",
+  "title": "+ lines before the first anchor element are inserted before it",
+  "spec": [
+    "§2.3",
+    "§8.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

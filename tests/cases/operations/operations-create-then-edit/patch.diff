@@ -1,0 +1,10 @@
+--- /dev/null
++++ n.txt
+@@
++a
++b
+--- n.txt
++++ n.txt
+@@
+-b
++c

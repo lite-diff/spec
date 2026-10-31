@@ -1,0 +1,10 @@
+{
+  "id": "body-two-space-context",
+  "title": "'  data' is context ' data' and '  +bar' is context ' +bar'",
+  "spec": [
+    "§7.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

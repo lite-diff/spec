@@ -1,0 +1,13 @@
+{
+  "id": "matching-ignore-blank-lines-empty-anchor-E410",
+  "title": "--ignore-blank-lines removing every anchor element: E410",
+  "spec": [
+    "§5.1",
+    "§8.2"
+  ],
+  "options": {
+    "ignore-blank-lines": true
+  },
+  "uncertain": false,
+  "notes": "§12 item 19: 'An anchor pattern that becomes empty after the removal ... has no position → E410 with the hint that --ignore-blank-lines removed every anchor element'."
+}

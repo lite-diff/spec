@@ -1,0 +1,10 @@
+{
+  "id": "paths-E102-glob",
+  "title": "a glob character in a path is E102",
+  "spec": [
+    "§6.3.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

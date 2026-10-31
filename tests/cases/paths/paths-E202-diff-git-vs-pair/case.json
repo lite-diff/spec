@@ -1,0 +1,10 @@
+{
+  "id": "paths-E202-diff-git-vs-pair",
+  "title": "diff --git paths differing from ---/+++ are E202",
+  "spec": [
+    "§6.3.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

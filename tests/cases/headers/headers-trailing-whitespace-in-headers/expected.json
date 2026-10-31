@@ -1,0 +1,37 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "edit",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 1,
+            "lineCount": 1
+          }
+        },
+        {
+          "ordinal": 2,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 2,
+            "lineCount": 2
+          }
+        },
+        {
+          "ordinal": 3,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 5,
+            "lineCount": 1
+          }
+        }
+      ]
+    }
+  ],
+  "exactTree": true
+}

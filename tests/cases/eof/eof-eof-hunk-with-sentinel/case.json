@@ -1,0 +1,11 @@
+{
+  "id": "eof-eof-hunk-with-sentinel",
+  "title": "an `@@ EOF` hunk reaches the end of file: a sentinel after its last `+` line leaves the result unterminated",
+  "spec": [
+    "§1.3",
+    "§7.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 23: 'a hunk reaches the end of file when ... it is an `@@ EOF` hunk'; the new-side sentinel decides."
+}

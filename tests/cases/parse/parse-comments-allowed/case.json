@@ -1,0 +1,11 @@
+{
+  "id": "parse-comments-allowed",
+  "title": "comments in the preamble and between +++ and @@ are ignored",
+  "spec": [
+    "§3.1",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The pair --- b.txt/+++ b.txt is followed by a # line, which is not a body-pair trigger, so it is a header."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "paths-diff-git-with-spaces",
+  "title": "diff --git line with spaces splits where the halves are equal after prefix removal",
+  "spec": [
+    "§6.3.4"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,11 @@
+{
+  "id": "operations-delete-then-recreate",
+  "title": "delete then create of the same path within one document",
+  "spec": [
+    "§8.5",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

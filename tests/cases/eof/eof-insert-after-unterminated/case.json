@@ -1,0 +1,11 @@
+{
+  "id": "eof-insert-after-unterminated",
+  "title": "context insertion after the unterminated last line",
+  "spec": [
+    "§1.3",
+    "§8.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 23: the anchor block includes the last line; no new-side sentinel after `+c`, so `b` gains the EOL convention and `c` is terminated."
+}

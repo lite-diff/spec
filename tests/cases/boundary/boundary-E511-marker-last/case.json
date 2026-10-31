@@ -1,0 +1,11 @@
+{
+  "id": "boundary-E511-marker-last",
+  "title": "'...' with only + lines after it is E511 (+ lines are not anchor elements)",
+  "spec": [
+    "§7.3",
+    "§3.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

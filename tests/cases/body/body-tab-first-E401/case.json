@@ -1,0 +1,11 @@
+{
+  "id": "body-tab-first-E401",
+  "title": "a body line starting with a tab is E401",
+  "spec": [
+    "§3.1",
+    "§7.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

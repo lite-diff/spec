@@ -1,0 +1,13 @@
+{
+  "id": "result-strict-W413",
+  "title": "--strict escalates W413",
+  "spec": [
+    "§5.2",
+    "§8.2"
+  ],
+  "options": {
+    "strict": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

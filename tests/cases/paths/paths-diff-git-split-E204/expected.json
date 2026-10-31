@@ -1,0 +1,9 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E204",
+      "patchLine": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "matching-E410-other-second-hunk",
+  "title": "E410 'other' in the second hunk; search start and hunk statuses reported",
+  "spec": [
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

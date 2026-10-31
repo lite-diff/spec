@@ -1,0 +1,10 @@
+{
+  "id": "paths-E100-absolute",
+  "title": "absolute path is E100",
+  "spec": [
+    "§6.3.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

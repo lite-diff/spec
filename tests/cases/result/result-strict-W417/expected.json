@@ -1,0 +1,23 @@
+{
+  "status": "failed",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "failed",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "failed"
+        }
+      ]
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W417",
+      "block": 1,
+      "hunk": 1
+    }
+  ],
+  "exactTree": true
+}

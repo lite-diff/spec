@@ -1,0 +1,8 @@
+--- f.txt
++++ f.txt
+ context
++stray
+@@
+ context
+-a
++b

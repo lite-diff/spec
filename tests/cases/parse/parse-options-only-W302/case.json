@@ -1,0 +1,13 @@
+{
+  "id": "parse-options-only-W302",
+  "title": "a document with options only is W302 and `applied`",
+  "spec": [
+    "§10"
+  ],
+  "options": {
+    "lite-diff": "1.1",
+    "strict": true
+  },
+  "uncertain": false,
+  "notes": "§12 item 9."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "result-parse-errors-all-reported",
+  "title": "parse errors in blocks 2 and 3 are all reported; no block is matched",
+  "spec": [
+    "§8.1",
+    "§8.6",
+    "§6.4.4"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

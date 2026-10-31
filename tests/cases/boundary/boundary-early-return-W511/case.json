@@ -1,0 +1,12 @@
+{
+  "id": "boundary-early-return-W511",
+  "title": "last segment without trailing context stops at an early return (W511)",
+  "spec": [
+    "§7.3",
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Segment 2 '-        return data' matches first at line 6, so only part of load() is deleted. W511 names the chosen position (6) and the first later one (9). §12 item 34 (§8.2 step 5 'Coordinates of match-phase diagnostics'): positions refer to the file as it was when the hunk was matched."
+}

@@ -1,0 +1,10 @@
+{
+  "id": "operations-delete-removes-empty-dir",
+  "title": "deleting the only file of a directory removes the emptied directories",
+  "spec": [
+    "§6.4.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 31, §6.4.3 step 3: 'Directories left empty by a rename or a delete SHOULD be removed, as git apply does' (this case asserts the SHOULD)."
+}

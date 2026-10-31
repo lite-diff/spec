@@ -1,0 +1,8 @@
+copy from a.txt
+copy to b.txt
+--- a.txt
++++ b.txt
+@@
+ x
+-y
++Y

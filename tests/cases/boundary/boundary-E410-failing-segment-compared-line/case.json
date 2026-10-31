@@ -1,0 +1,12 @@
+{
+  "id": "boundary-E410-failing-segment-compared-line",
+  "title": "E410 in a boundary block compares the failing segment at the line after the previous segment's match",
+  "spec": [
+    "§8.2",
+    "§7.3",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 18 (§8.2 step 5 'Best candidate'): 'the file line compared against for that segment is the line at the position where the segment was tried, i.e. the first line after the end of the previous segment's match': segment 2 (`-X`, ` Y`) is tried at line 2 (`p`), where its first element `-X` (anchor element 3) fails. The longest-prefix position (element 4, ` Y` against `Z`) is not the one reported."
+}

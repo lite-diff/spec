@@ -1,0 +1,7 @@
+--- f.txt
++++ f.txt
+@@
+  data
+  +bar
++x
+ end

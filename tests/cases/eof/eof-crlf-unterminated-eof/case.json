@@ -1,0 +1,10 @@
+{
+  "id": "eof-crlf-unterminated-eof",
+  "title": "@@ EOF on a CRLF file without final newline",
+  "spec": [
+    "§1.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 items 22 and 23: as `eof-eof-on-unterminated`; the gained and the new terminators are the file's EOL convention (CRLF)."
+}

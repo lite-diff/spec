@@ -1,0 +1,13 @@
+# preamble comment
+--- a.txt
++++ a.txt
+# comment inside the header
+@@
+-1
++one
+--- b.txt
++++ b.txt
+# about b.txt
+@@
+-2
++two

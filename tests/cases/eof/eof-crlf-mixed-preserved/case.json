@@ -1,0 +1,11 @@
+{
+  "id": "eof-crlf-mixed-preserved",
+  "title": "CRLF file with one LF line: unchanged lines keep theirs, inserted lines get CRLF",
+  "spec": [
+    "§1.3",
+    "§11"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

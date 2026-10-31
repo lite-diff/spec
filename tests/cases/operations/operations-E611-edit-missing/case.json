@@ -1,0 +1,10 @@
+{
+  "id": "operations-E611-edit-missing",
+  "title": "edit of a missing file is E611",
+  "spec": [
+    "§6.4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

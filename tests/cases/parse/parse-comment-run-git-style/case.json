@@ -1,0 +1,12 @@
+{
+  "id": "parse-comment-run-git-style",
+  "title": "a run of `#` and blank lines before `diff --git` ends the previous body and is ignored",
+  "spec": [
+    "§3.1",
+    "§4.1",
+    "Appendix A.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 5: the comment run may be interleaved with blank lines; the blank line before it is a trailing blank of the hunk body (stripped), the run itself is not part of the body."
+}

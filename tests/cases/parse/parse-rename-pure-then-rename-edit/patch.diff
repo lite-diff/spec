@@ -1,0 +1,9 @@
+rename from a.txt
+rename to b.txt
+rename from c.txt
+rename to d.txt
+--- c.txt
++++ d.txt
+@@
+-old
++new

@@ -1,0 +1,6 @@
+--auto-rename
+--- a.txt
++++ b.txt
+@@
+-x
++y

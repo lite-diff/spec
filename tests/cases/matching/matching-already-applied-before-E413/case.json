@@ -1,0 +1,11 @@
+{
+  "id": "matching-already-applied-before-E413",
+  "title": "a re-applied hunk whose anchor matches only before the cursor is E410 'already applied', not E413",
+  "spec": [
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 20 (§8.2 step 5 'Already applied'): after hunk 1 the file is a,old,m,M,a,NEW and the cursor is line 5 (1-based). Hunk 2's anchor (a, old) matches only at line 1, before the cursor (which alone would be E413), but its applied pattern (a, NEW) matches exactly once from the search start, at line 5; the test precedes the hunk-order search, so the result is E410 stating 'already applied at line 5'."
+}

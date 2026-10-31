@@ -1,0 +1,10 @@
+{
+  "id": "paths-real-dir-b-with-prefix",
+  "title": "a real top-level directory b/ written with a git prefix",
+  "spec": [
+    "§6.3.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,7 @@
+--first-match
+--- f.txt
++++ f.txt
+option apply-all-matches
+@@
+-a
++b

@@ -1,0 +1,24 @@
+{
+  "status": "failed",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "failed",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "not-attempted"
+        }
+      ]
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "E404",
+      "patchLine": 3
+    }
+  ],
+  "diagnosticCounts": {
+    "E404": 1
+  }
+}

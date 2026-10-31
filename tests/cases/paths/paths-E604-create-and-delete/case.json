@@ -1,0 +1,10 @@
+{
+  "id": "paths-E604-create-and-delete",
+  "title": "'new file mode' together with +++ /dev/null is E604",
+  "spec": [
+    "§6.4.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

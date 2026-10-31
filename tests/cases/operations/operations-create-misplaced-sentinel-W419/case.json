@@ -1,0 +1,12 @@
+{
+  "id": "operations-create-misplaced-sentinel-W419",
+  "title": "a sentinel that does not follow the last `+` line of a create hunk is W419 and ignored",
+  "spec": [
+    "§6.4.5",
+    "§1.3",
+    "§10"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 24: only a new-side sentinel after the last `+` line decides (§6.4.5); a sentinel elsewhere is ignored with a warning (Appendix A.1 rule 6)."
+}

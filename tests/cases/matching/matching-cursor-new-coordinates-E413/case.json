@@ -1,0 +1,11 @@
+{
+  "id": "matching-cursor-new-coordinates-E413",
+  "title": "cursor is in new coordinates: hunk 2 cannot match the line hunk 1 inserted",
+  "spec": [
+    "§8.2",
+    "§3.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§8.2 step 2 example. After hunk 1 the file is a,a,b and the cursor 2 (0-based). The earliest earlier match p=0 lies inside hunk 1's applied range [0,2) -> shared context."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "eof-rename-inherits-crlf",
+  "title": "rename with edit inherits the source's CRLF convention",
+  "spec": [
+    "§6.4.3",
+    "§11"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

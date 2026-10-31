@@ -1,0 +1,11 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E608"
+    }
+  ],
+  "absent": [
+    "b.txt"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "headers-eof-insert",
+  "title": "@@ EOF appends at the end of the file",
+  "spec": [
+    "§7.1",
+    "§8.2",
+    "§8.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

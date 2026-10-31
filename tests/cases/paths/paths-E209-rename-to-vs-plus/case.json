@@ -1,0 +1,11 @@
+{
+  "id": "paths-E209-rename-to-vs-plus",
+  "title": "'rename to' differing from the +++ path in the same header is E209",
+  "spec": [
+    "§6.3.2",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Lines in this order stay in one header ('rename to' is not an operation-opening keyword). The natural order gives E209 as well (§12 item 1): see paths-rename-then-mismatched-pair."
+}

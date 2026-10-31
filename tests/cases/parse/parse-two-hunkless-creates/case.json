@@ -1,0 +1,11 @@
+{
+  "id": "parse-two-hunkless-creates",
+  "title": "two consecutive hunk-less create blocks",
+  "spec": [
+    "§4.1",
+    "§6.4.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

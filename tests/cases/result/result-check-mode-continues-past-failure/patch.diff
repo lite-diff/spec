@@ -1,0 +1,16 @@
+--check
+--- a.txt
++++ a.txt
+@@
+-1
++one
+--- b.txt
++++ b.txt
+@@
+-9
++nine
+--- c.txt
++++ c.txt
+@@
+-3
++three

@@ -1,0 +1,11 @@
+{
+  "id": "operations-E603-rename-source-missing",
+  "title": "rename of a missing file is E603",
+  "spec": [
+    "§6.4.1",
+    "§6.4.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

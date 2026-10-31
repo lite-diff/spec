@@ -1,0 +1,13 @@
+{
+  "id": "matching-apply-all-matches-overlap-scope",
+  "title": "apply-all-matches with a scope header and overlapping candidates",
+  "spec": [
+    "§8.4",
+    "§8.2"
+  ],
+  "options": {
+    "apply-all-matches": true
+  },
+  "uncertain": false,
+  "notes": "First search starts at S (line 'start'); candidates 3 and 4 overlap; after applying at 3 the cursor is 4 and no further A,A exists. Lines above the scope line are untouched."
+}

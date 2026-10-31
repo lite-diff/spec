@@ -1,0 +1,11 @@
+{
+  "id": "eof-bom-with-bof",
+  "title": "@@ BOF inserts after a UTF-8 BOM",
+  "spec": [
+    "§1.3",
+    "Appendix A.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

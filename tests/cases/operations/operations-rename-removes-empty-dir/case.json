@@ -1,0 +1,10 @@
+{
+  "id": "operations-rename-removes-empty-dir",
+  "title": "a rename out of a directory removes the emptied directory",
+  "spec": [
+    "§6.4.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 31, §6.4.3 step 3 (asserts the SHOULD)."
+}

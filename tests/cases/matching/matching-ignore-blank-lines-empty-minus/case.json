@@ -1,0 +1,12 @@
+{
+  "id": "matching-ignore-blank-lines-empty-minus",
+  "title": "§5.1 example 2: an empty '-' line consumes the blank file line",
+  "spec": [
+    "§5.1"
+  ],
+  "options": {
+    "ignore-blank-lines": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

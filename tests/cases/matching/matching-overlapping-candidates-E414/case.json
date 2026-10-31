@@ -1,0 +1,10 @@
+{
+  "id": "matching-overlapping-candidates-E414",
+  "title": "overlapping candidates are counted (} } } with anchor } })",
+  "spec": [
+    "§8.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

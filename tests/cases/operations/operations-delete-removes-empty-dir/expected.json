@@ -1,0 +1,9 @@
+{
+  "status": "applied",
+  "absent": [
+    "dir/sub/only.txt",
+    "dir/sub",
+    "dir"
+  ],
+  "exactTree": true
+}

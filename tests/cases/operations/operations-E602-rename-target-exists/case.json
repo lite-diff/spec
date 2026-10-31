@@ -1,0 +1,11 @@
+{
+  "id": "operations-E602-rename-target-exists",
+  "title": "rename onto an existing file is E602",
+  "spec": [
+    "§6.4.1",
+    "§6.4.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

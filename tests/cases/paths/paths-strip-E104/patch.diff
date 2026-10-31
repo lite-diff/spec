@@ -1,0 +1,5 @@
+--strip 2
+--- /dev/null
++++ new.txt
+@@
++x

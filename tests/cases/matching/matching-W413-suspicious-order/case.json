@@ -1,0 +1,11 @@
+{
+  "id": "matching-W413-suspicious-order",
+  "title": "one candidate after the cursor and a match before it: W413",
+  "spec": [
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,6 @@
+--ignore-space-change
+--- f.c
++++ f.c
+@@
+-if (x) {
++if (y) {

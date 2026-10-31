@@ -1,0 +1,41 @@
+{
+  "status": "applied",
+  "liteDiffVersion": "1.1",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "edit",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 1,
+            "lineCount": 2
+          },
+          "level": "exact"
+        },
+        {
+          "ordinal": 2,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 6,
+            "lineCount": 2
+          },
+          "level": "exact",
+          "scopeLine": 5
+        },
+        {
+          "ordinal": 3,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 10,
+            "lineCount": 2
+          }
+        }
+      ]
+    }
+  ],
+  "exactTree": true
+}

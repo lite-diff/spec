@@ -1,0 +1,12 @@
+{
+  "id": "matching-ignore-space-change-presence",
+  "title": "--ignore-space-change: presence vs absence of whitespace still matters",
+  "spec": [
+    "§5.1"
+  ],
+  "options": {
+    "ignore-space-change": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

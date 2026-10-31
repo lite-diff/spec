@@ -1,0 +1,9 @@
+```diff
+--- f.txt
++++ f.txt
+@@
+-a
++b
+```
+
+Done: this changes a to b.

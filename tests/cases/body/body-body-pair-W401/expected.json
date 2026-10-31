@@ -1,0 +1,10 @@
+{
+  "status": "applied",
+  "diagnostics": [
+    {
+      "code": "W401",
+      "patchLine": 5
+    }
+  ],
+  "exactTree": true
+}

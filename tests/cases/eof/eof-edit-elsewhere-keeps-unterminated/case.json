@@ -1,0 +1,10 @@
+{
+  "id": "eof-edit-elsewhere-keeps-unterminated",
+  "title": "an edit elsewhere keeps the missing final newline",
+  "spec": [
+    "§1.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 23: no hunk reaches the end of file (the anchor block ends at `b`, the last line is `c`), so the last line keeps its terminator state. Compare `eof-context-reaches-eof-without-sentinel-terminates`."
+}

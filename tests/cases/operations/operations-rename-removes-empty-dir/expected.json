@@ -1,0 +1,8 @@
+{
+  "status": "applied",
+  "absent": [
+    "old/x.txt",
+    "old"
+  ],
+  "exactTree": true
+}

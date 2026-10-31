@@ -1,0 +1,26 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "skipped"
+        }
+      ]
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W414",
+      "block": 1,
+      "hunk": 1
+    }
+  ],
+  "forbidDiagnostics": [
+    "W417"
+  ],
+  "exactTree": true
+}

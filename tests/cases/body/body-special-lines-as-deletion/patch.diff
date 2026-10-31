@@ -1,0 +1,13 @@
+--- notes.txt
++++ notes.txt
+@@
+ start
+-# comment
+--- note
+-++i;
+-...
+-@@
+-- item
+-\section{x}
+----
+ end

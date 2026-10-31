@@ -1,0 +1,10 @@
+{
+  "id": "operations-E415-two-hunks-in-create",
+  "title": "a create block with two hunks is E415",
+  "spec": [
+    "§6.4.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Asserted patch line: the second hunk header (the hunk that makes the block invalid)."
+}

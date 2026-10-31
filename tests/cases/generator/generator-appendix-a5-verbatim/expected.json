@@ -1,0 +1,16 @@
+{
+  "status": "applied",
+  "diagnostics": [
+    {
+      "code": "W300",
+      "patchLine": 1
+    }
+  ],
+  "absent": [
+    "src/util.py"
+  ],
+  "exactTree": true,
+  "forbidDiagnostics": [
+    "W511"
+  ]
+}

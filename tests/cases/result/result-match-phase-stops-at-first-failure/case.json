@@ -1,0 +1,12 @@
+{
+  "id": "result-match-phase-stops-at-first-failure",
+  "title": "the match phase stops at the first failing block",
+  "spec": [
+    "§8.1",
+    "§8.6",
+    "§6.4.4"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

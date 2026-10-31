@@ -1,0 +1,11 @@
+{
+  "id": "matching-E413-wrong-order",
+  "title": "hunks in the wrong order: E413 wrong-order",
+  "spec": [
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "After hunk 1 the cursor is 5 (0-based, = end of file), reported 1-based as 6. The match p=0 is before hunk 1's applied range [3,5)."
+}

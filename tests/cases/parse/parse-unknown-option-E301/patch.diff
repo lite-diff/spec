@@ -1,0 +1,6 @@
+--ignore-case
+--- f.txt
++++ f.txt
+@@
+-a
++b

@@ -1,0 +1,11 @@
+{
+  "id": "paths-quoted-octal-utf8",
+  "title": "quoted paths with octal escapes decode as UTF-8 bytes",
+  "spec": [
+    "§6.3.4",
+    "§6.3.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

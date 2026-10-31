@@ -1,0 +1,13 @@
+{
+  "id": "result-strict-W412-mode-block",
+  "title": "--strict escalates W412 for a mode-change-only block",
+  "spec": [
+    "§5.2",
+    "§6.4.1"
+  ],
+  "options": {
+    "strict": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

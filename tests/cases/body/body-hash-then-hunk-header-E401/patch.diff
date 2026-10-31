@@ -1,0 +1,9 @@
+--- f.txt
++++ f.txt
+@@
+-1
++one
+# second hunk
+@@
+-3
++three

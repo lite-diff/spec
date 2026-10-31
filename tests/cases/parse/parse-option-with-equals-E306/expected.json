@@ -1,0 +1,9 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E306",
+      "patchLine": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "body-lua-comment-edit",
+  "title": "'--- old' followed by '+-- new' are two body lines",
+  "spec": [
+    "§7.2",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "'+-- new comment' is not a +++ path header, so '--- old comment' is a lone path-header lexeme: deletion of '-- old comment'."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "matching-E410-internal-whitespace",
+  "title": "E410 best candidate classified as internal whitespace",
+  "spec": [
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

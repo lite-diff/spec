@@ -1,0 +1,19 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "edit"
+    },
+    {
+      "ordinal": 2,
+      "status": "applied",
+      "operation": "edit"
+    }
+  ],
+  "forbidDiagnostics": [
+    "W401"
+  ],
+  "exactTree": true
+}

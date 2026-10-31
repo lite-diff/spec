@@ -1,0 +1,10 @@
+{
+  "id": "body-E415-context-in-create",
+  "title": "a context line in a create hunk is E415",
+  "spec": [
+    "§6.4.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

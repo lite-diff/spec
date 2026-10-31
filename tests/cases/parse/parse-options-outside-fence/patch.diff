@@ -1,0 +1,8 @@
+--strict
+```diff
+--- f.txt
++++ f.txt
+@@
+-a
++b
+```

@@ -1,0 +1,12 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E103",
+      "block": 1
+    }
+  ],
+  "forbidDiagnostics": [
+    "E611"
+  ]
+}

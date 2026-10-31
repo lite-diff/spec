@@ -1,0 +1,13 @@
+{
+  "id": "matching-apply-all-matches",
+  "title": "§8.4 example: both occurrences replaced",
+  "spec": [
+    "§8.4",
+    "§5.2"
+  ],
+  "options": {
+    "apply-all-matches": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

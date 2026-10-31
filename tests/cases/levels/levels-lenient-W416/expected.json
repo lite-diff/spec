@@ -1,0 +1,29 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "edit",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 1,
+            "lineCount": 3
+          },
+          "level": "lenient"
+        }
+      ]
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W416",
+      "block": 1,
+      "hunk": 1
+    }
+  ],
+  "exactTree": true
+}

@@ -1,0 +1,12 @@
+{
+  "id": "paths-strip-E104",
+  "title": "a path with fewer components than --strip N is E104",
+  "spec": [
+    "§5.3"
+  ],
+  "options": {
+    "strip": "2"
+  },
+  "uncertain": false,
+  "notes": ""
+}

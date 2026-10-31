@@ -1,0 +1,6 @@
+--first-match
+--- f.c
++++ f.c
+@@
+-    return 0;
++    return 1;

@@ -1,0 +1,6 @@
+--strip x
+--- f.txt
++++ f.txt
+@@
+-a
++b

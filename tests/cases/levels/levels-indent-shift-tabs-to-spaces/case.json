@@ -1,0 +1,14 @@
+{
+  "id": "levels-indent-shift-tabs-to-spaces",
+  "title": "--indent-shift with a per-string sigma (tabs -> spaces at two depths)",
+  "spec": [
+    "§5.2",
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {
+    "indent-shift": true
+  },
+  "uncertain": false,
+  "notes": "sigma = {TAB -> 4 SP, 2 TAB -> 8 SP}; the blank context and the empty '+' line take no part and are not re-indented."
+}

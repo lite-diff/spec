@@ -1,0 +1,6 @@
+--- doc.tex
++++ doc.tex
+@@
+\section{Intro}
+-Text.
++More text.

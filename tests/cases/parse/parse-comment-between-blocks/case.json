@@ -1,0 +1,12 @@
+{
+  "id": "parse-comment-between-blocks",
+  "title": "a # comment directly before the next block is a trailing comment run, not a body line",
+  "spec": [
+    "§3.1",
+    "§4.1",
+    "§7.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 5 (§3.1 'Comment', §4.1 BODY): a `#` line followed (after `#`/blank lines) by a block start line is a trailing comment run; it ends the body and is ignored."
+}

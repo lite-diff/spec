@@ -1,0 +1,7 @@
+{
+  "status": "applied",
+  "exactTree": true,
+  "forbidDiagnostics": [
+    "W419"
+  ]
+}

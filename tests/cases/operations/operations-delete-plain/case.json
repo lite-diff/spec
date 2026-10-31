@@ -1,0 +1,11 @@
+{
+  "id": "operations-delete-plain",
+  "title": "a hunk-less delete block removes the file",
+  "spec": [
+    "§6.4.1",
+    "§2.4"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

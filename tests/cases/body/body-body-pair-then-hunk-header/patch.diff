@@ -1,0 +1,10 @@
+--- a.txt
++++ a.txt
+@@
+-1
++one
+--- b.txt
++++ b.txt
+@@
+-2
++two

@@ -1,0 +1,12 @@
+{
+  "id": "boundary-E410-failing-segment",
+  "title": "a segment that matches nowhere: E410 names the segment",
+  "spec": [
+    "§7.3",
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

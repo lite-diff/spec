@@ -1,0 +1,7 @@
+--strict
+--- f.go
++++ f.go
+option lenient
+@@
+-a
++b

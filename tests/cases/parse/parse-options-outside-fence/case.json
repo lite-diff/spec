@@ -1,0 +1,13 @@
+{
+  "id": "parse-options-outside-fence",
+  "title": "an option before the opening fence makes the fence E306",
+  "spec": [
+    "§4.1",
+    "§7.2"
+  ],
+  "options": {
+    "strict": true
+  },
+  "uncertain": false,
+  "notes": "The fence is tolerated only as the first non-blank, non-comment line; here it falls to the PREAMBLE catch-all (E306) and no fence is open. The closing fence is then an ordinary body line starting with a backtick -> E401 (§7.2 'backtick outside the closing-fence case')."
+}

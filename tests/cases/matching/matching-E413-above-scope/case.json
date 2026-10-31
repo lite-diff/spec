@@ -1,0 +1,10 @@
+{
+  "id": "matching-E413-above-scope",
+  "title": "anchor only between cursor and scope line: E413 above-scope",
+  "spec": [
+    "§8.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Cursor 0, scope line S = 1; the only match p = 0 satisfies cursor <= p < S. §12 item 34 defines the Appendix B field searchStart ('equals the cursor unless a scope header moved it'), so cursor (line 1) and searchStart (line 2) are both asserted."
+}

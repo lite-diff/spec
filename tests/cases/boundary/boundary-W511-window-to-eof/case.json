@@ -1,0 +1,10 @@
+{
+  "id": "boundary-W511-window-to-eof",
+  "title": "W511 looks for later matches up to the end of file (25 lines further)",
+  "spec": [
+    "§7.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Positions in the file as it was when the hunk was matched (§12 item 34, §8.2 step 5)."
+}

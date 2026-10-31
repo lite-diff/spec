@@ -1,0 +1,17 @@
+diff --git a/a.txt b/a.txt
+--- a/a.txt
++++ b/a.txt
+@@ -1,2 +1,2 @@
+-1
++one
+ 2
+
+#git apply: second file
+
+# (b.txt)
+diff --git a/b.txt b/b.txt
+--- a/b.txt
++++ b/b.txt
+@@ -1 +1 @@
+-x
++y

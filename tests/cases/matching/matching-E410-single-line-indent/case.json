@@ -1,0 +1,12 @@
+{
+  "id": "matching-E410-single-line-indent",
+  "title": "single-line anchor with wrong indentation: classification of the closest line",
+  "spec": [
+    "§8.2",
+    "§8.6",
+    "Appendix B"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The most common LLM indentation error. Closest line by Levenshtein is line 2. §12 item 35: the classification is always computed, also when no line matched exactly ('so that a one-line anchor with wrong indentation still receives the indentation hint'), with the separate flag noLineMatched (asserted)."
+}

@@ -1,0 +1,8 @@
+--- file.txt
++++ file.txt
+@@
+-// START
+...
+-// END
++// NEW SECTION
++new content

@@ -1,0 +1,10 @@
+--check
+--- a.txt
++++ a.txt
+@@
+-1
++one
+--- /dev/null
++++ new.txt
+@@
++n

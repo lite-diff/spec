@@ -1,0 +1,35 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "skipped",
+      "operation": "create"
+    },
+    {
+      "ordinal": 2,
+      "status": "skipped",
+      "operation": "create"
+    },
+    {
+      "ordinal": 3,
+      "status": "applied",
+      "operation": "edit"
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W603",
+      "block": 1
+    },
+    {
+      "code": "W601",
+      "block": 2
+    }
+  ],
+  "absent": [
+    "link",
+    "bin.dat"
+  ],
+  "exactTree": true
+}

@@ -1,0 +1,13 @@
+{
+  "id": "matching-apply-all-matches-E304",
+  "title": "--apply-all-matches on a block with two hunks is E304",
+  "spec": [
+    "§5.2",
+    "§8.4"
+  ],
+  "options": {
+    "apply-all-matches": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

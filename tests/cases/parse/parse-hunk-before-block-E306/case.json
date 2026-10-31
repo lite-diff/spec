@@ -1,0 +1,10 @@
+{
+  "id": "parse-hunk-before-block-E306",
+  "title": "a well-formed hunk header before the first block is E306",
+  "spec": [
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

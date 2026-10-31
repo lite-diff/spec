@@ -1,0 +1,18 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E414",
+      "block": 1,
+      "hunk": 1,
+      "candidates": [
+        {
+          "line": 1
+        },
+        {
+          "line": 3
+        }
+      ]
+    }
+  ]
+}

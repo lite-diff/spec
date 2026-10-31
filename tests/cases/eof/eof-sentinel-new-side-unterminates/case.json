@@ -1,0 +1,12 @@
+{
+  "id": "eof-sentinel-new-side-unterminates",
+  "title": "a sentinel after the last `+` line of a hunk that reaches the end of file removes the final newline",
+  "spec": [
+    "§1.3",
+    "§3.1",
+    "§9.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 23: the anchor block includes the last line `b`; the new side's last line is `+c` and a sentinel follows it, so the result is unterminated (git semantics)."
+}

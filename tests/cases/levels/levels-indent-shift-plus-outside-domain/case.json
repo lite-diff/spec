@@ -1,0 +1,13 @@
+{
+  "id": "levels-indent-shift-plus-outside-domain",
+  "title": "tab conversion with a + line deeper than the anchor is refused (E410)",
+  "spec": [
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {
+    "indent-shift": true
+  },
+  "uncertain": false,
+  "notes": "sigma = {'' -> '', 4 SP -> TAB, 8 SP -> 2 TAB} is not a single prefix substitution, and the 12-space + line is outside its domain. The message MUST name that + line; Appendix B has no field for it, so only the level-(a) best candidate is asserted."
+}

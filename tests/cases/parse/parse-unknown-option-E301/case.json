@@ -1,0 +1,13 @@
+{
+  "id": "parse-unknown-option-E301",
+  "title": "unknown global option is E301",
+  "spec": [
+    "§4.1",
+    "§5"
+  ],
+  "options": {
+    "ignore-case": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,12 @@
+{
+  "id": "paths-E209-rename-vs-diff-git",
+  "title": "rename lines vs a mismatching ---/+++ pair in a diff --git header: one block, E209",
+  "spec": [
+    "§6.3.2",
+    "§4.1",
+    "§6.4.4"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 1: after the completed rename pair, the pair '--- a/a.txt' / '+++ b/c.txt' belongs to the rename header because the `---` path (a.txt after prefix removal) equals `rename from` (§4.1 HEADER). The block keeps diff --git a/a.txt b/c.txt, which agrees with ---/+++ (no E202); check 3 of §6.3.2: 'rename to b.txt' differs from the +++ path c.txt -> E209. There is no second block, so no E608."
+}

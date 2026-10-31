@@ -1,0 +1,25 @@
+{
+  "status": "failed",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "failed",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "failed"
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "status": "not-attempted"
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W401"
+    }
+  ],
+  "exactTree": true
+}

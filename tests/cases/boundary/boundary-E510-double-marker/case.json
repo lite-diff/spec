@@ -1,0 +1,10 @@
+{
+  "id": "boundary-E510-double-marker",
+  "title": "two '...' in a row is E510",
+  "spec": [
+    "§7.3"
+  ],
+  "options": {},
+  "uncertain": true,
+  "notes": "Asserted patch line: the second '...' (the first reading); the first '...' is the other."
+}

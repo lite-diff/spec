@@ -1,0 +1,12 @@
+{
+  "id": "paths-rename-then-create-other-accepted",
+  "title": "rename lines followed by a '--- /dev/null' pair for another path",
+  "spec": [
+    "§4.1",
+    "§6.4.2",
+    "§8.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "By §4.1 the pair /dev/null,c.txt does not have `from` as its `---` path and starts a new block, so the document is a valid rename plus a valid create. §6.4.2 states this (§12 item 1): 'A `--- /dev/null`/`+++ x` pair after a completed `rename from`/`rename to` pair starts a new block by §4.1 and is a rename followed by a create, not E604.'"
+}

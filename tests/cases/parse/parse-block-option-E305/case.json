@@ -1,0 +1,13 @@
+{
+  "id": "parse-block-option-E305",
+  "title": "global first-match plus block apply-all-matches is E305",
+  "spec": [
+    "§5.5",
+    "§5.2"
+  ],
+  "options": {
+    "first-match": true
+  },
+  "uncertain": false,
+  "notes": "Conflicts are checked per block with the effective values. Which patch line carries E305 (the option line or the global line) is not specified, so it is not asserted."
+}

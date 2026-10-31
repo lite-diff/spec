@@ -1,0 +1,44 @@
+{
+  "status": "failed",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "not-attempted"
+    },
+    {
+      "ordinal": 2,
+      "status": "failed",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "failed"
+        }
+      ]
+    },
+    {
+      "ordinal": 3,
+      "status": "failed",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "failed"
+        },
+        {
+          "ordinal": 2,
+          "status": "not-attempted"
+        }
+      ]
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "E401",
+      "patchLine": 10
+    },
+    {
+      "code": "E417",
+      "patchLine": 14
+    }
+  ],
+  "exactTree": true
+}

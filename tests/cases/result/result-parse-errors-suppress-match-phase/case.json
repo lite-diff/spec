@@ -1,0 +1,11 @@
+{
+  "id": "result-parse-errors-suppress-match-phase",
+  "title": "with a parse error no file-system or matching check runs",
+  "spec": [
+    "§8.1",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

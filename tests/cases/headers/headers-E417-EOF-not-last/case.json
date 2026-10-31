@@ -1,0 +1,10 @@
+{
+  "id": "headers-E417-EOF-not-last",
+  "title": "@@ EOF before another hunk is E417",
+  "spec": [
+    "§7.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

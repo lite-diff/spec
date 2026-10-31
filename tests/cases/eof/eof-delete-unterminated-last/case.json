@@ -1,0 +1,10 @@
+{
+  "id": "eof-delete-unterminated-last",
+  "title": "deleting the unterminated last line leaves a terminated file",
+  "spec": [
+    "§1.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 23: the hunk reaches the end of file; its new side ends with the context line `a` and has no sentinel, so the result is terminated."
+}

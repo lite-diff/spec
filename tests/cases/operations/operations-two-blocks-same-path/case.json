@@ -1,0 +1,12 @@
+{
+  "id": "operations-two-blocks-same-path",
+  "title": "two blocks on one path: the second sees the first, cursor reset to 0",
+  "spec": [
+    "§8.5",
+    "§8.2",
+    "§11"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

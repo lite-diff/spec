@@ -1,0 +1,12 @@
+{
+  "id": "operations-skipped-block-operation",
+  "title": "the `operation` of a skipped block is the one its header implies",
+  "spec": [
+    "§6.4.4",
+    "§6.4.1",
+    "Appendix B"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 31, §6.4.4 step 1: 'The `operation` reported for a skipped block is the one its header indicators imply (§6.4.1: create, delete, edit), not a placeholder'."
+}

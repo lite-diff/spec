@@ -1,0 +1,12 @@
+{
+  "id": "parse-mode-change-only",
+  "title": "mode-change-only block is a valid no-op with W412",
+  "spec": [
+    "§6.4.1",
+    "§6.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

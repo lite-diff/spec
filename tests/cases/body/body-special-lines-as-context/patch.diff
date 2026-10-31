@@ -1,0 +1,14 @@
+--- notes.txt
++++ notes.txt
+@@
+ # comment
+ -- note
+ ++i;
+ ...
+ @@
+ - item
+ \section{x}
+ ```
+ 	code
++added
+ end

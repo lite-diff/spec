@@ -1,0 +1,19 @@
+{
+  "status": "failed",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "not-attempted"
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W300",
+      "patchLine": 1
+    },
+    {
+      "code": "E306",
+      "patchLine": 9
+    }
+  ]
+}

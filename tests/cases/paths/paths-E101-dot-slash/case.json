@@ -1,0 +1,11 @@
+{
+  "id": "paths-E101-dot-slash",
+  "title": "a './' component is E101",
+  "spec": [
+    "§6.3.3",
+    "Appendix A.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

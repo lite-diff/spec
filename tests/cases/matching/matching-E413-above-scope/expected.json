@@ -1,0 +1,13 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E413",
+      "block": 1,
+      "hunk": 1,
+      "classification": "above-scope",
+      "cursor": 1,
+      "searchStart": 2
+    }
+  ]
+}

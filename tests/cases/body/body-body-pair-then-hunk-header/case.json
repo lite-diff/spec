@@ -1,0 +1,11 @@
+{
+  "id": "body-body-pair-then-hunk-header",
+  "title": "a ---/+++ pair followed by @@ is a genuine block start",
+  "spec": [
+    "§7.2",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

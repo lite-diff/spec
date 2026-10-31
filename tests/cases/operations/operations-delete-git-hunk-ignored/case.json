@@ -1,0 +1,11 @@
+{
+  "id": "operations-delete-git-hunk-ignored",
+  "title": "hunks of a delete block are not applied; mismatch never prevents deletion",
+  "spec": [
+    "§6.4.5",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "W602 is optional (MAY) and therefore not asserted. Hunk status 'skipped': §12 item 34 (§8.6) - skipped hunks keep `skipped` in a successful block; `skipped` applies to the hunks of delete blocks."
+}

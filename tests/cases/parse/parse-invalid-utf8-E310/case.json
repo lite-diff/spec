@@ -1,0 +1,11 @@
+{
+  "id": "parse-invalid-utf8-E310",
+  "title": "a patch that is not valid UTF-8 is E310",
+  "spec": [
+    "§1.3",
+    "§10"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 9: the `+` line is Latin-1 (byte E9). The line of the first invalid byte is reported."
+}

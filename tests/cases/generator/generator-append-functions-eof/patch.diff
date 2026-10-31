@@ -1,0 +1,12 @@
+--lite-diff 1.1
+--- util.js
++++ util.js
+@@ EOF
++
++export function b() {
++  return 2;
++}
++
++export function c() {
++  return 3;
++}

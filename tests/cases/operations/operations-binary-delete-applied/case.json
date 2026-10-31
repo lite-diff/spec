@@ -1,0 +1,12 @@
+{
+  "id": "operations-binary-delete-applied",
+  "title": "a binary delete (`deleted file mode` + binary indicator) is applied, not skipped",
+  "spec": [
+    "§1.1",
+    "§6.2",
+    "§6.4.4"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 30, §6.4.4 step 1: 'a binary delete ... is not skipped and proceeds as a delete (its content is not needed)'. No W601, since nothing is skipped (W601 says 'Binary file skipped')."
+}

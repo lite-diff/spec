@@ -1,0 +1,11 @@
+{
+  "id": "body-hash-in-body-E401",
+  "title": "a # line inside a body is E401, not a comment",
+  "spec": [
+    "§3.1",
+    "§7.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The generator forgot the context prefix of '#!/bin/sh'; v1.0 would have silently dropped it."
+}

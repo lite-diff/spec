@@ -1,0 +1,8 @@
+{
+  "status": "applied",
+  "liteDiffVersion": "1.0",
+  "forbidDiagnostics": [
+    "E305"
+  ],
+  "exactTree": true
+}

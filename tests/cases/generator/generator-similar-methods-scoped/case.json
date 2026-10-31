@@ -1,0 +1,14 @@
+{
+  "id": "generator-similar-methods-scoped",
+  "title": "the corrected patch names the enclosing method in a scope header",
+  "spec": [
+    "§7.1",
+    "§8.2",
+    "Appendix A.1"
+  ],
+  "options": {
+    "lite-diff": "1.1"
+  },
+  "uncertain": false,
+  "notes": ""
+}

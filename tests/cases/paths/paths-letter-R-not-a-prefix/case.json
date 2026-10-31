@@ -1,0 +1,10 @@
+{
+  "id": "paths-letter-R-not-a-prefix",
+  "title": "R/ is not one of the six prefix letters: the file is created under R/",
+  "spec": [
+    "§6.3.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

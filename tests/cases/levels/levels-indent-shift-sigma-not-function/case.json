@@ -1,0 +1,12 @@
+{
+  "id": "levels-indent-shift-sigma-not-function",
+  "title": "sigma that maps one indent to two different file indents is refused",
+  "spec": [
+    "§8.2"
+  ],
+  "options": {
+    "indent-shift": true
+  },
+  "uncertain": false,
+  "notes": "'  ' pairs with 4 SP and with TAB: not a function, no level-(b) candidate; diagnostic at level (a)."
+}

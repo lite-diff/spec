@@ -1,0 +1,11 @@
+{
+  "id": "parse-edit-block-without-hunks",
+  "title": "edit block without hunks and without mode lines",
+  "spec": [
+    "§6.4.1",
+    "§10"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§6.4.1: an edit block without hunks and without old mode/new mode -> E404. The patch line of this E404 is not specified (see AMBIGUITIES.md), so it is not asserted."
+}

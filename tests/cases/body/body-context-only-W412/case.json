@@ -1,0 +1,11 @@
+{
+  "id": "body-context-only-W412",
+  "title": "a hunk without + or - lines is a no-op with W412",
+  "spec": [
+    "§7.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

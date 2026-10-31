@@ -1,0 +1,14 @@
+{
+  "id": "boundary-early-return-strict-fails",
+  "title": "the same patch under --strict fails (W511 escalated)",
+  "spec": [
+    "§7.3",
+    "§5.2",
+    "§8.6"
+  ],
+  "options": {
+    "strict": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

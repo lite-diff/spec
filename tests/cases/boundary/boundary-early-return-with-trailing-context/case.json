@@ -1,0 +1,11 @@
+{
+  "id": "boundary-early-return-with-trailing-context",
+  "title": "trailing context after the last '-' line skips the early return",
+  "spec": [
+    "§7.3",
+    "§8.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Segment 2 is [-return data, blank, def save]; it matches only at the final return. The blank body line is internal (not trailing), so it is an empty-context anchor."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "headers-scope-success",
+  "title": "@@ <scope> starts the search at the first line containing the text",
+  "spec": [
+    "§7.1",
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The match at line 2 lies between the cursor and the scope line: not a candidate, no W413 (§8.2 step 8)."
+}

@@ -1,0 +1,13 @@
+--strict
+--- f.txt
++++ f.txt
+@@
+ start
+--- X
++++ Y
+ end
+--- g.txt
++++ g.txt
+@@
+-p
++q

@@ -1,0 +1,28 @@
+{
+  "status": "failed",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "failed",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "matched"
+        },
+        {
+          "ordinal": 2,
+          "status": "failed"
+        }
+      ]
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "E413",
+      "block": 1,
+      "hunk": 2,
+      "classification": "shared-context",
+      "cursor": 4
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+--- f.txt
++++ f.txt
+@@
+ start
+--- old note
++++ new note
+

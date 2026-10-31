@@ -1,0 +1,11 @@
+{
+  "id": "parse-profile-10-implied-first-match-no-conflict",
+  "title": "profile 1.0 with --apply-all-matches: the implied --first-match never conflicts (no E305)",
+  "spec": [
+    "§5",
+    "§8.4"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 10, §5: 'implied options never raise a conflict error such as E305'."
+}

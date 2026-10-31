@@ -1,0 +1,10 @@
+{
+  "id": "operations-create-header-form-irrelevant",
+  "title": "a create hunk may use any header form (here @@ EOF)",
+  "spec": [
+    "§6.4.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,6 @@
+--check
+--- a.txt
++++ a.txt
+@@
+-9
++nine

@@ -1,0 +1,11 @@
+{
+  "id": "operations-submodule-mode-W603",
+  "title": "a block declaring mode 160000 (submodule) is skipped with W603",
+  "spec": [
+    "§6.4.1",
+    "§6.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

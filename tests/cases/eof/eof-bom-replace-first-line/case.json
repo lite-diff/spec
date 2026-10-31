@@ -1,0 +1,10 @@
+{
+  "id": "eof-bom-replace-first-line",
+  "title": "the BOM is not part of line 1 for matching and survives its replacement",
+  "spec": [
+    "§1.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

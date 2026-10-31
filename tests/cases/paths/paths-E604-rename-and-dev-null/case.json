@@ -1,0 +1,11 @@
+{
+  "id": "paths-E604-rename-and-dev-null",
+  "title": "rename lines together with --- /dev/null in one header is E604",
+  "spec": [
+    "§6.4.2",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The pair precedes 'rename to', so it is recorded in the same header."
+}

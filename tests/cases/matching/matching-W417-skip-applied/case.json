@@ -1,0 +1,14 @@
+{
+  "id": "matching-W417-skip-applied",
+  "title": "--skip-applied skips a re-applied pure insertion with W414 instead of W417",
+  "spec": [
+    "§5.2",
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {
+    "skip-applied": true
+  },
+  "uncertain": false,
+  "notes": "§12 item 20, §5.2 --skip-applied: 'or a pure insertion whose applied pattern matches at its candidate ... the hunk is skipped with W414 instead of E410 / W417'."
+}

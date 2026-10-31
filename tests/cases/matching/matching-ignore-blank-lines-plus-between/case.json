@@ -1,0 +1,13 @@
+{
+  "id": "matching-ignore-blank-lines-plus-between",
+  "title": "§8.3 example: '+c' stays attached to the line it follows",
+  "spec": [
+    "§8.3",
+    "§5.1"
+  ],
+  "options": {
+    "ignore-blank-lines": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

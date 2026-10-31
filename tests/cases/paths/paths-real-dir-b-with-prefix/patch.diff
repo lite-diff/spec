@@ -1,0 +1,5 @@
+--- a/b/file.txt
++++ b/b/file.txt
+@@
+-a
++b

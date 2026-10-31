@@ -1,0 +1,13 @@
+{
+  "id": "levels-indent-shift-before-lenient",
+  "title": "with both options a re-indentable hunk matches at level (b)",
+  "spec": [
+    "§8.2"
+  ],
+  "options": {
+    "indent-shift": true,
+    "lenient": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

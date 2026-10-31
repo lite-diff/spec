@@ -1,0 +1,12 @@
+{
+  "id": "parse-delete-then-edit",
+  "title": "hunk-less delete block followed by an edit block without diff --git",
+  "spec": [
+    "§4.1",
+    "§6.4.1",
+    "§6.4.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "HEADER state: a ---/+++ pair when the current header already holds a +++ line ends the block."
+}

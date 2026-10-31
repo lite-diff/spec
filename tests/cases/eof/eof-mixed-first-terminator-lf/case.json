@@ -1,0 +1,11 @@
+{
+  "id": "eof-mixed-first-terminator-lf",
+  "title": "the EOL convention is the first terminator in the file (LF here)",
+  "spec": [
+    "§1.3",
+    "§11"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

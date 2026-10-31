@@ -1,0 +1,11 @@
+{
+  "id": "body-backslash-section-E401",
+  "title": "an unprefixed \\section line is E401 (not a sentinel)",
+  "spec": [
+    "§3.1",
+    "§7.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

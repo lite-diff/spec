@@ -1,0 +1,10 @@
+{
+  "id": "operations-E600-create-existing",
+  "title": "create of an existing file is E600",
+  "spec": [
+    "§6.4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

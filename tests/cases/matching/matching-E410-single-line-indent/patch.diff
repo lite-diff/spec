@@ -1,0 +1,5 @@
+--- f.py
++++ f.py
+@@
+-  return 1
++  return 9

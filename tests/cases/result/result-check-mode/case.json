@@ -1,0 +1,13 @@
+{
+  "id": "result-check-mode",
+  "title": "--check matches everything, reports 'checked' and writes nothing",
+  "spec": [
+    "§5.2",
+    "§8.6"
+  ],
+  "options": {
+    "check": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,6 @@
+--strict
+--- f.py
++++ f.py
+@@
+ import os
++import sys

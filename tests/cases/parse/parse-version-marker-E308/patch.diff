@@ -1,0 +1,6 @@
+--lite-diff 2.0
+--- f.txt
++++ f.txt
+@@
+-a
++b

@@ -1,0 +1,10 @@
+{
+  "id": "operations-E601-delete-missing",
+  "title": "delete of a missing file is E601",
+  "spec": [
+    "§6.4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

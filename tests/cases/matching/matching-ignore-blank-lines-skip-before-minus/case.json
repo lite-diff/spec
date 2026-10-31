@@ -1,0 +1,13 @@
+{
+  "id": "matching-ignore-blank-lines-skip-before-minus",
+  "title": "§5.1 example 3: a blank is skipped before a non-matching '-' line",
+  "spec": [
+    "§5.1",
+    "§8.3"
+  ],
+  "options": {
+    "ignore-blank-lines": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

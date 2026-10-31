@@ -1,0 +1,13 @@
+{
+  "id": "body-blank-matches-whitespace-only",
+  "title": "a blank anchor matches a whitespace-only file line, which is kept",
+  "spec": [
+    "§1.3",
+    "§3.1",
+    "§5.1",
+    "§8.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Trailing whitespace is removed from both sides before comparison; the matched file line is emitted unchanged, so its four spaces survive."
+}

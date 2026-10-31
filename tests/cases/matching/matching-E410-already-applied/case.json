@@ -1,0 +1,11 @@
+{
+  "id": "matching-E410-already-applied",
+  "title": "E410 states that the hunk appears to be already applied",
+  "spec": [
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

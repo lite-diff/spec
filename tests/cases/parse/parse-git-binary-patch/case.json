@@ -1,0 +1,12 @@
+{
+  "id": "parse-git-binary-patch",
+  "title": "GIT binary patch payload is skipped with W601",
+  "spec": [
+    "§4.1",
+    "§6.2",
+    "§6.4.4"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

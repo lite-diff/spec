@@ -1,0 +1,13 @@
+{
+  "id": "matching-first-match",
+  "title": "--first-match applies an ambiguous hunk at the earliest candidate",
+  "spec": [
+    "§5.2",
+    "§8.2"
+  ],
+  "options": {
+    "first-match": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,16 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E400",
+      "patchLine": 3
+    },
+    {
+      "code": "E404",
+      "patchLine": 4
+    }
+  ],
+  "diagnosticCounts": {
+    "E404": 1
+  }
+}

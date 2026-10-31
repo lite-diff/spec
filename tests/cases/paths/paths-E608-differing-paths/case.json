@@ -1,0 +1,12 @@
+{
+  "id": "paths-E608-differing-paths",
+  "title": "differing ---/+++ paths without rename lines are E608",
+  "spec": [
+    "§6.3.2",
+    "§6.4.2",
+    "§2.4"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

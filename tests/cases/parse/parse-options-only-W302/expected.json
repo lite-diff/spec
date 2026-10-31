@@ -1,0 +1,10 @@
+{
+  "status": "applied",
+  "blocks": [],
+  "diagnostics": [
+    {
+      "code": "W302"
+    }
+  ],
+  "exactTree": true
+}

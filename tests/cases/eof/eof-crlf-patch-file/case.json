@@ -1,0 +1,10 @@
+{
+  "id": "eof-crlf-patch-file",
+  "title": "a patch with CRLF line endings applies to an LF file; inserted lines get LF",
+  "spec": [
+    "§1.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

@@ -1,0 +1,11 @@
+{
+  "id": "body-dots-and-more-E401",
+  "title": "'...' followed by text is E401, never a marker",
+  "spec": [
+    "§7.1",
+    "§7.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

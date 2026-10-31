@@ -1,0 +1,11 @@
+{
+  "id": "paths-real-dir-b-without-prefix-E611",
+  "title": "a real directory b/ written without a prefix is stripped: E611",
+  "spec": [
+    "§6.3.5",
+    "§6.4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The letter-prefix rule removes b/, so the block edits 'file.txt', which does not exist."
+}

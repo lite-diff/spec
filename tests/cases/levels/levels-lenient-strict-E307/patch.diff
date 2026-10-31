@@ -1,0 +1,7 @@
+--strict
+--lenient
+--- f.go
++++ f.go
+@@
+-a
++b

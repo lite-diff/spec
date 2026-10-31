@@ -1,0 +1,16 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "delete"
+    },
+    {
+      "ordinal": 2,
+      "status": "applied",
+      "operation": "create"
+    }
+  ],
+  "exactTree": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "generator-add-import",
+  "title": "add an import between two existing imports",
+  "spec": [
+    "§2.3",
+    "§8.3",
+    "Appendix A.1"
+  ],
+  "options": {
+    "lite-diff": "1.1"
+  },
+  "uncertain": false,
+  "notes": ""
+}

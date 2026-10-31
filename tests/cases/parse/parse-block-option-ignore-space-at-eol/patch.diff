@@ -1,0 +1,6 @@
+--- f.txt
++++ f.txt
+option ignore-space-at-eol
+@@
+-a
++b

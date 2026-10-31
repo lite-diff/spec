@@ -1,0 +1,10 @@
+{
+  "id": "paths-diff-git-split-E204",
+  "title": "diff --git line with two qualifying split positions is E204",
+  "spec": [
+    "§6.3.4"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "No split gives equal halves; both 'a/x | b/y b/z' and 'a/x b/y | b/z' have a second half starting with a letter prefix -> more than one position -> E204."
+}

@@ -1,0 +1,20 @@
+{
+  "status": "applied",
+  "diagnostics": [
+    {
+      "code": "W410",
+      "block": 1,
+      "hunk": 2,
+      "candidates": [
+        {
+          "line": 5
+        },
+        {
+          "line": 7,
+          "chosen": true
+        }
+      ]
+    }
+  ],
+  "exactTree": true
+}

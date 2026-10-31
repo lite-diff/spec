@@ -1,0 +1,17 @@
+{
+  "id": "operations-symlink-on-disk-E103",
+  "title": "editing a symbolic link found on disk is E103 (not E611)",
+  "spec": [
+    "§6.3.3",
+    "§6.4.4",
+    "§1.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The runner creates link.txt -> target.txt in the workdir; the case is SKIPPED where symlinks cannot be created.",
+  "setup": {
+    "symlinks": {
+      "link.txt": "target.txt"
+    }
+  }
+}

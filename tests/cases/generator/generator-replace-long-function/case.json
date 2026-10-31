@@ -1,0 +1,14 @@
+{
+  "id": "generator-replace-long-function",
+  "title": "replace a 25-line function via '...' with trailing context past an early return",
+  "spec": [
+    "§7.3",
+    "§8.3",
+    "Appendix A.1"
+  ],
+  "options": {
+    "lite-diff": "1.1"
+  },
+  "uncertain": false,
+  "notes": "The early '        return result' (8 spaces) does not match the 4-space segment; the trailing blank and 'def validate' make the end of the range unique anyway."
+}

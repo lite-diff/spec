@@ -1,0 +1,6 @@
+--ignore-all-space
+--- f.txt
++++ f.txt
+@@
+-abc
++d

@@ -1,0 +1,11 @@
+{
+  "id": "body-special-lines-as-deletion",
+  "title": "A.2 rows written as deletion lines",
+  "spec": [
+    "§7.2",
+    "Appendix A.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "'--- note' is not followed by a +++ path header, so it deletes '-- note'; '----' deletes '---'; '-...' deletes the line '...'."
+}

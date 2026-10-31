@@ -1,0 +1,5 @@
+diff --git a/new.txt b/new.txt
+--- /dev/null
++++ b/new.txt
+@@ -0,0 +1 @@
++hello

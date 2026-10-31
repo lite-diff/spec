@@ -1,0 +1,12 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E415",
+      "patchLine": 5
+    }
+  ],
+  "absent": [
+    "n.txt"
+  ]
+}

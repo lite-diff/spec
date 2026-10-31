@@ -1,0 +1,7 @@
+--lite-diff 1.1
+--- repo.py
++++ repo.py
+@@
+         self._check()
+-        return self._data
++        return self._data.copy()

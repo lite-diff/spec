@@ -1,0 +1,12 @@
+{
+  "id": "headers-scope-lowercase-bof",
+  "title": "'@@ bof' is a scope header, not BOF: with a +-only body it is E412 (with an uppercase hint)",
+  "spec": [
+    "§7.1",
+    "§8.2",
+    "§8.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 14: E412 covers scope headers and precedes E418 (§8.3 'a hunk with header `@@`, a unified header, or a scope header whose body contains `+` lines and no anchor element'; §7.1 form 4 '`@@ bof` ... with a `+`-only body they are E412'). E412 is a hunk-level parse code without a single line, so it is reported at the hunk header line (§8.6 'offending line', §12 item 34)."
+}

@@ -1,0 +1,16 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E410",
+      "block": 1,
+      "hunk": 1,
+      "bestCandidate": {
+        "line": 1,
+        "segment": 2,
+        "failedElementIndex": 3,
+        "noLineMatched": false
+      }
+    }
+  ]
+}

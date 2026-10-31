@@ -1,0 +1,11 @@
+{
+  "id": "parse-pair-blank-hunk",
+  "title": "---/+++ pair after a body, followed by a blank line and @@, starts a new block",
+  "spec": [
+    "§4.1",
+    "§7.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Body-pair rule: a blank line after +++ means the pair is a genuine header; the blank is ignored in HEADER."
+}

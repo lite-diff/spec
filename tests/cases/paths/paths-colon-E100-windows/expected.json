@@ -1,0 +1,17 @@
+{
+  "status": "failed",
+  "diagnostics": [
+    {
+      "code": "E100",
+      "patchLine": 2
+    },
+    {
+      "code": "E100",
+      "patchLine": 6
+    }
+  ],
+  "diagnosticCounts": {
+    "E100": 2
+  },
+  "exactTree": true
+}

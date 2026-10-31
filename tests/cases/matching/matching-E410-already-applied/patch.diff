@@ -1,0 +1,6 @@
+--- f.py
++++ f.py
+@@
+ def f():
+-    return 1
++    return 2

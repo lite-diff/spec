@@ -1,0 +1,16 @@
+{
+  "status": "failed",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "failed"
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W412",
+      "block": 1
+    }
+  ],
+  "exactTree": true
+}

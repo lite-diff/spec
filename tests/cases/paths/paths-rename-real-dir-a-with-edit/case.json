@@ -1,0 +1,12 @@
+{
+  "id": "paths-rename-real-dir-a-with-edit",
+  "title": "rename under a real a/ directory with prefixed ---/+++",
+  "spec": [
+    "§6.3.2",
+    "§6.3.5",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "--- a/a/old.txt strips to a/old.txt, equal to 'rename from', so the pair belongs to the rename header."
+}

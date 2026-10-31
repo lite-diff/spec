@@ -1,0 +1,11 @@
+{
+  "id": "parse-binary-files-differ",
+  "title": "'Binary files ... differ' skips the block with W601",
+  "spec": [
+    "§1.1",
+    "§6.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

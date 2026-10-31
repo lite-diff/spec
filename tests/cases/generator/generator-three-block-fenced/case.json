@@ -1,0 +1,15 @@
+{
+  "id": "generator-three-block-fenced",
+  "title": "fenced three-block document: edit with scope, rename with edit, new file",
+  "spec": [
+    "§4.1",
+    "§6.4.3",
+    "§7.3",
+    "Appendix A.5"
+  ],
+  "options": {
+    "lite-diff": "1.1"
+  },
+  "uncertain": false,
+  "notes": "Like Appendix A.5 but with the + lines placed before the trailing context, so the new load() replaces the old one (compare generator-appendix-a5-verbatim)."
+}

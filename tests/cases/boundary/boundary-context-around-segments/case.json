@@ -1,0 +1,11 @@
+{
+  "id": "boundary-context-around-segments",
+  "title": "context lines belong to the first and last segments",
+  "spec": [
+    "§7.3",
+    "§8.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

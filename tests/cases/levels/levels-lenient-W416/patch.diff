@@ -1,0 +1,8 @@
+--lenient
+--- f.go
++++ f.go
+@@
+ func f() {
+-    x := 1
++    x := 2
+     return x

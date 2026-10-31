@@ -1,0 +1,7 @@
+--- old.txt
++++ /dev/null
+--- keep.txt
++++ keep.txt
+@@
+-x
++y

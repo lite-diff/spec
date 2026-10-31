@@ -1,0 +1,15 @@
+{
+  "id": "result-applied-ranges-and-scope-line",
+  "title": "appliedRange (1-based, new file) and scopeLine for three hunks",
+  "spec": [
+    "§8.6",
+    "§8.2",
+    "Appendix B",
+    "§5"
+  ],
+  "options": {
+    "lite-diff": "1.1"
+  },
+  "uncertain": false,
+  "notes": "Hunk 2's scope line is found in the file after hunk 1 (new coordinates): line 5."
+}

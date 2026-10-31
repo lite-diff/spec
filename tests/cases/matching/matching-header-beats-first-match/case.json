@@ -1,0 +1,13 @@
+{
+  "id": "matching-header-beats-first-match",
+  "title": "a qualifying unified header decides before --first-match",
+  "spec": [
+    "§8.2",
+    "§5.2"
+  ],
+  "options": {
+    "first-match": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

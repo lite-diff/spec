@@ -1,0 +1,14 @@
+{
+  "id": "matching-skip-applied-W414",
+  "title": "--skip-applied skips an already-applied hunk with W414",
+  "spec": [
+    "§5.2",
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {
+    "skip-applied": true
+  },
+  "uncertain": false,
+  "notes": "§12 item 34 (§8.6 'Hunk statuses'): 'In a block that succeeds, every hunk has the block's status, except hunks that were skipped (`skipped`)'."
+}

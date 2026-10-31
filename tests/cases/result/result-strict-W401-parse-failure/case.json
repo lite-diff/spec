@@ -1,0 +1,14 @@
+{
+  "id": "result-strict-W401-parse-failure",
+  "title": "--strict escalates W401 as a parse failure",
+  "spec": [
+    "§5.2",
+    "§7.2",
+    "§8.6"
+  ],
+  "options": {
+    "strict": true
+  },
+  "uncertain": false,
+  "notes": "W401 is parse-phase: its block is failed, all other blocks not-attempted (§5.2)."
+}

@@ -1,0 +1,7 @@
+--indent-shift
+--lenient
+--- f.py
++++ f.py
+@@
+-x = 1
++x = 2

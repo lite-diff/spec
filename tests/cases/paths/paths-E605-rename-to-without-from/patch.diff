@@ -1,0 +1,6 @@
+rename to b.txt
+--- a.txt
++++ b.txt
+@@
+-x
++y

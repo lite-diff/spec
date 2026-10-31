@@ -1,0 +1,11 @@
+{
+  "id": "headers-create-ignores-scope",
+  "title": "scope text is ignored in a create block",
+  "spec": [
+    "§7.1",
+    "§6.4.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

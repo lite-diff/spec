@@ -1,0 +1,14 @@
+{
+  "id": "levels-lenient-W416",
+  "title": "--lenient matches with ignore-space-change; + lines written as given",
+  "spec": [
+    "§5.2",
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {
+    "lenient": true
+  },
+  "uncertain": false,
+  "notes": ""
+}

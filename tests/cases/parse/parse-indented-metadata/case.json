@@ -1,0 +1,11 @@
+{
+  "id": "parse-indented-metadata",
+  "title": "indented index line is E207",
+  "spec": [
+    "§3.2",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

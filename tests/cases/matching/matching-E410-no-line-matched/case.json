@@ -1,0 +1,12 @@
+{
+  "id": "matching-E410-no-line-matched",
+  "title": "first anchor element matches nowhere: Levenshtein-closest line is the best candidate",
+  "spec": [
+    "§8.2",
+    "§8.6",
+    "Appendix B"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Best candidate line 2 (Levenshtein distance 1). §12 item 35: the E410 classification is always computed (here 'other'), and 'no line matched exactly' is the separate Appendix B flag noLineMatched (asserted)."
+}

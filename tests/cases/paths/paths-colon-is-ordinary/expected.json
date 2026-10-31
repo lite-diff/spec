@@ -1,0 +1,16 @@
+{
+  "status": "checked",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "checked",
+      "operation": "create",
+      "target": "notes:2026.txt"
+    }
+  ],
+  "forbidDiagnostics": [
+    "E600",
+    "E201"
+  ],
+  "exactTree": true
+}

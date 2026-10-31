@@ -1,0 +1,11 @@
+{
+  "id": "paths-unquoted-spaces",
+  "title": "unquoted spaces in ---/+++ paths are part of the path",
+  "spec": [
+    "§6.3.4",
+    "§1.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

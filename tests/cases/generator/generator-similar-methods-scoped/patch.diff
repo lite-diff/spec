@@ -1,0 +1,8 @@
+--lite-diff 1.1
+--- repo.py
++++ repo.py
+@@ def save(
+         self._check()
+-        return self._data
++        self._flush()
++        return self._data

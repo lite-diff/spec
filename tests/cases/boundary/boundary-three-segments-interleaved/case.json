@@ -1,0 +1,11 @@
+{
+  "id": "boundary-three-segments-interleaved",
+  "title": "three segments with + lines interleaved",
+  "spec": [
+    "§7.3",
+    "§8.3"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

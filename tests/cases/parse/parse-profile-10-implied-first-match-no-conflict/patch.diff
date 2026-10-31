@@ -1,0 +1,7 @@
+--lite-diff 1.0
+--apply-all-matches
+--- f.txt
++++ f.txt
+@@
+-A
++X

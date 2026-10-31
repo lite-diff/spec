@@ -1,0 +1,11 @@
+{
+  "id": "parse-space-indented-hunk-header",
+  "title": "space-indented @@ after +++ is E400; the following body lines are E404",
+  "spec": [
+    "§3.2",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 1: in HEADER the indented-lexeme bullet is tested before the body-looking-after-+++ bullet ('tested before the body-looking rule, so an indented `@@` after `+++` is E400, not E404'). ' @@' is E400; '-a' is then the first body-looking line after +++ and gives E404 once per block."
+}

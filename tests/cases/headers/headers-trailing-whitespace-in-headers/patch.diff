@@ -1,0 +1,9 @@
+--- f.txt
++++ f.txt
+@@ BOF 
++top
+@@  
+ a
++a2
+@@ EOF	
++bottom

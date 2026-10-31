@@ -1,0 +1,14 @@
+{
+  "id": "result-strict-W410",
+  "title": "--strict escalates W410 when the chosen candidate is only the closest one: hunk and block failed, nothing written",
+  "spec": [
+    "§5.2",
+    "§8.2",
+    "§8.6"
+  ],
+  "options": {
+    "strict": true
+  },
+  "uncertain": false,
+  "notes": "§12 item 21 (§5.2 'Exception for W410'): W410 is escalated only when the chosen candidate is merely the closest one. The second header is `@@ -5 +8 @@` (the exact-hit shape `@@ -4 +7 @@` is `result-strict-W410-exact-hit`): after hunk 1 the delta is 3, expected = 5 − 1 + 3 = 7 (0-based), the candidates are 4 and 6, the closest is 6 ≠ 7, so W410 is escalated."
+}

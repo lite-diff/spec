@@ -1,0 +1,12 @@
+{
+  "id": "matching-E410-leading-whitespace",
+  "title": "E410 best candidate classified as leading whitespace only",
+  "spec": [
+    "§8.2",
+    "§8.6",
+    "Appendix B"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

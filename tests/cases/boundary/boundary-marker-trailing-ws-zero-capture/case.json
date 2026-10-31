@@ -1,0 +1,12 @@
+{
+  "id": "boundary-marker-trailing-ws-zero-capture",
+  "title": "'...' with trailing spaces is a marker; it may capture zero lines",
+  "spec": [
+    "§7.1",
+    "§7.2",
+    "§8.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

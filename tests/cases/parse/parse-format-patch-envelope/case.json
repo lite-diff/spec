@@ -1,0 +1,11 @@
+{
+  "id": "parse-format-patch-envelope",
+  "title": "git format-patch mail envelope is out of scope",
+  "spec": [
+    "§1.2",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Only the first E306 is asserted; further E306 lines and the E401 on '2.43.0' are not."
+}

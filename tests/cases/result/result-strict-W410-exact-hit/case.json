@@ -1,0 +1,13 @@
+{
+  "id": "result-strict-W410-exact-hit",
+  "title": "--strict does not escalate W410 when the unified header hits a candidate exactly",
+  "spec": [
+    "§5.2",
+    "§8.2"
+  ],
+  "options": {
+    "strict": true
+  },
+  "uncertain": false,
+  "notes": "§12 item 21: expected = 4 − 1 + 3 = 6 (0-based) and the chosen candidate starts exactly there, so W410 is reported but not escalated (the inexact-hit shape, which fails, is `result-strict-W410`)."
+}

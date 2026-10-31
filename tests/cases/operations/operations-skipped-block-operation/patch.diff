@@ -1,0 +1,18 @@
+diff --git a/link b/link
+new file mode 120000
+index 0000000..1234567
+--- /dev/null
++++ b/link
+@@ -0,0 +1 @@
++target
+\ No newline at end of file
+diff --git a/bin.dat b/bin.dat
+new file mode 100644
+index 0000000..89abcde
+Binary files /dev/null and b/bin.dat differ
+diff --git a/f.txt b/f.txt
+--- f.txt
++++ f.txt
+@@
+-a
++b

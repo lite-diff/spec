@@ -1,0 +1,11 @@
+{
+  "id": "matching-qualifying-trailing-blank-tprime",
+  "title": "stripped trailing blanks count as t' (0 <= t' <= t) for qualification",
+  "spec": [
+    "§8.2",
+    "§3.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Body as written: -}, +), two trailing blanks (t = 2). m = 1 + t' and n = 1 + t' with t' = 1: qualifies; expected = 4 - 1 + 0 = 3 -> line 4. The second blank is a block separator."
+}

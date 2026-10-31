@@ -1,0 +1,10 @@
+{
+  "id": "matching-tprime-must-be-shared",
+  "title": "m and n must be consistent with the same t'",
+  "spec": [
+    "§8.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "m = 2 needs t' = 1, n = 1 needs t' = 0: no single t' -> not qualifying -> E414."
+}

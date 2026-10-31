@@ -1,0 +1,10 @@
+{
+  "id": "headers-E417-BOF-not-first",
+  "title": "@@ BOF after another hunk is E417",
+  "spec": [
+    "§7.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

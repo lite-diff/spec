@@ -1,0 +1,11 @@
+{
+  "id": "operations-create-with-sentinel",
+  "title": "a sentinel after the last + line: created file ends without a newline",
+  "spec": [
+    "§6.4.5",
+    "§3.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

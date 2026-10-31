@@ -1,0 +1,7 @@
+--- f.txt
++++ f.txt
+@@
+ a
+-b
+\ No newline at end of file
++B

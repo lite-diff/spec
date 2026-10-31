@@ -1,0 +1,8 @@
+--indent-shift
+--- f.py
++++ f.py
+@@
+ if a:
+-  x = 1
+-  y = 2
++  z = 3

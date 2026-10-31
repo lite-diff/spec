@@ -1,0 +1,11 @@
+{
+  "id": "headers-trailing-whitespace-in-headers",
+  "title": "trailing spaces/tabs after @@, @@ BOF, @@ EOF are ignored; BOF+EOF in one block",
+  "spec": [
+    "§7.1",
+    "§8.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Forms are tested in order: '@@  ' is form 1, '@@ BOF ' form 2. Cursor after BOF = 1, so ' a' is found at index 1."
+}

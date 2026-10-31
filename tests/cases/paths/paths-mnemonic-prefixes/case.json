@@ -1,0 +1,10 @@
+{
+  "id": "paths-mnemonic-prefixes",
+  "title": "mnemonic prefixes i/ and w/ are stripped (sides may differ)",
+  "spec": [
+    "§6.3.5"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": ""
+}

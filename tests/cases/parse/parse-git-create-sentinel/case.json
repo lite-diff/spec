@@ -1,0 +1,14 @@
+{
+  "id": "parse-git-create-sentinel",
+  "title": "git diff create with /dev/null and a trailing sentinel",
+  "spec": [
+    "§4.1",
+    "§6.3.1",
+    "§6.4.2",
+    "§6.4.5",
+    "§3.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "Rule 0 of §6.3.1: --- /dev/null makes the source /dev/null although diff --git names a/new.txt. new file mode and /dev/null imply the same operation (no E604). The sentinel after the last + line makes the created file end without a terminator (§6.4.5)."
+}

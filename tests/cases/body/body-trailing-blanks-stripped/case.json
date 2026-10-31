@@ -1,0 +1,11 @@
+{
+  "id": "body-trailing-blanks-stripped",
+  "title": "blank lines at the end of a hunk body are not part of it",
+  "spec": [
+    "§3.1",
+    "§7.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "If the two trailing blanks were empty-context anchors, the hunk would need two empty lines after 'a'."
+}

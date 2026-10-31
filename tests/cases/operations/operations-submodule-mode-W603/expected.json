@@ -1,0 +1,24 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "skipped"
+    },
+    {
+      "ordinal": 2,
+      "status": "applied",
+      "operation": "edit"
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W603",
+      "block": 1
+    }
+  ],
+  "absent": [
+    "lib"
+  ],
+  "exactTree": true
+}

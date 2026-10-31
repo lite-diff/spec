@@ -1,0 +1,6 @@
+--- f.py
++++ f.py
+@@ -5,2 +5,2 @@ def b():
+     x = 1
+-    return x
++    return x + 1

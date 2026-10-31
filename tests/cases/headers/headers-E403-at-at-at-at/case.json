@@ -1,0 +1,11 @@
+{
+  "id": "headers-E403-at-at-at-at",
+  "title": "'@@ @@' is malformed (scope text may not start with @)",
+  "spec": [
+    "§7.1",
+    "§1.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "A malformed hunk header does not change state; the following body-looking lines then give E404 (not asserted)."
+}

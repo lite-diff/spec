@@ -1,0 +1,12 @@
+{
+  "id": "eof-context-last-sentinel-keeps-unterminated",
+  "title": "git output with the unterminated last line as trailing context keeps the file unterminated",
+  "spec": [
+    "§1.3",
+    "§3.1",
+    "§9.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 items 23 and 24: the sentinel follows a context line that is the hunk's last body line (new side, §3.1 'Body lines'); the hunk reaches the end of file, so the result's last line is unterminated."
+}

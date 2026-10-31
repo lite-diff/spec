@@ -1,0 +1,15 @@
+diff --git a/logo.bin b/logo.bin
+index 1111111..2222222 100644
+GIT binary patch
+literal 12
+TcmZ?wbhEHbWMp7q00031
+
+literal 0
+HcmV?d00001
+
+diff --git a/f.txt b/f.txt
+--- a/f.txt
++++ b/f.txt
+@@
+-a
++b

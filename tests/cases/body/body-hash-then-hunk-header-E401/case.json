@@ -1,0 +1,12 @@
+{
+  "id": "body-hash-then-hunk-header-E401",
+  "title": "a `#` line followed by a hunk header is E401",
+  "spec": [
+    "§3.1",
+    "§4.1",
+    "§7.2"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "§12 item 5, §3.1: 'A first-position `#` line anywhere else in a hunk body (followed by a body line or a hunk header) is not a comment ... → E401'."
+}

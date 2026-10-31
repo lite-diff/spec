@@ -1,0 +1,61 @@
+{
+  "status": "applied",
+  "blocks": [
+    {
+      "ordinal": 1,
+      "status": "applied",
+      "operation": "edit",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 1,
+            "lineCount": 3
+          }
+        },
+        {
+          "ordinal": 2,
+          "status": "applied",
+          "appliedRange": {
+            "firstLine": 6,
+            "lineCount": 2
+          },
+          "scopeLine": 5
+        }
+      ]
+    },
+    {
+      "ordinal": 2,
+      "status": "applied",
+      "operation": "rename",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "applied"
+        }
+      ]
+    },
+    {
+      "ordinal": 3,
+      "status": "applied",
+      "operation": "create",
+      "hunks": [
+        {
+          "ordinal": 1,
+          "status": "applied"
+        }
+      ]
+    }
+  ],
+  "diagnostics": [
+    {
+      "code": "W300",
+      "patchLine": 1
+    }
+  ],
+  "absent": [
+    "src/util.py"
+  ],
+  "exactTree": true
+}

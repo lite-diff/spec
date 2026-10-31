@@ -1,0 +1,7 @@
+rename from old.txt
+rename to new.txt
+--- old.txt
++++ new.txt
+@@
+ a
++x

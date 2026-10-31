@@ -1,0 +1,12 @@
+{
+  "id": "operations-edit-after-rename",
+  "title": "a later block edits the file under its new name",
+  "spec": [
+    "§8.5",
+    "§8.6",
+    "§4.1"
+  ],
+  "options": {},
+  "uncertain": false,
+  "notes": "The pair b.txt/b.txt does not have `from` (a.txt) as its `---` path, so it starts block 2 (§4.1, §12 item 1)."
+}

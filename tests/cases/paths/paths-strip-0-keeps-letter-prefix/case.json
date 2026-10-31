@@ -1,0 +1,13 @@
+{
+  "id": "paths-strip-0-keeps-letter-prefix",
+  "title": "--strip 0 disables the letter-prefix rule",
+  "spec": [
+    "§5.3",
+    "§6.3.5"
+  ],
+  "options": {
+    "strip": "0"
+  },
+  "uncertain": false,
+  "notes": ""
+}
